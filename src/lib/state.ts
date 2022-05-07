@@ -1,11 +1,12 @@
 import { derived, writable } from 'svelte/store';
-import type { Character, FSQTags } from '$lib/types';
+import type { Character, FSQPointOfInterest, FSQTags } from '$lib/types';
 
 export const state = writable({
 	currentLocation: '',
 	visitedPlaces: [] as string[],
 	character: null as Character | null,
-	tags: {} as FSQTags
+	tags: {} as FSQTags,
+	destinationChoices: [] as FSQPointOfInterest[]
 });
 
 export const relevantTags = derived(state, ({ character, tags }) => {
