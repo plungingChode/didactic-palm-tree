@@ -13,5 +13,15 @@
       "id": 16047,
       "title": "The Garden of Sculptures ",
       "lore": "Can anyone travel to the past? Not even a mage can do it, but a sculpture garden can give you quite a good impression. Walk among the great historical figures of the past. Unfortunately, they don't make sculptures of good storytellers, but you have better chances, brave adventurer."
+    },
+    {
+      "id": 16053,
+      "title": "Burgler by the river",
+      "lore": "A goblin has stolen your pocket. I think you should look for him by the local river. Maybe can find him there, maybe not, either way, the view will be astonishing."
+    },
+    {
+      "id": 16019,
+      "title": "Poisonous city",
+      "lore": "In the city poisonous air damaged your lung. You should go hiking on a magical path in the forest to regenerate, but be cheerful the wise magic trees only heal you if you enjoy your journey."
     }
   ]
