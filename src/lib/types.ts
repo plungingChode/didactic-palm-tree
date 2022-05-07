@@ -6,10 +6,12 @@ export type Location = {
 };
 
 export interface HasLocation {
-	/** Latitude in degrees */
-	lat: number;
-	/** Longitude in degrees */
-	lon: number;
+	geocodes: {
+		main: {
+			latitude: number;
+			longitude: number;
+		};
+	};
 }
 
 export type User = {
@@ -31,6 +33,7 @@ export type Character = {
 
 export type Snippet = {
 	id?: number;
+	action: string;
 	title: string;
 	lore: string;
 };
@@ -44,13 +47,33 @@ export type Story = {
 	snippets: CompletedSnippet[];
 };
 
-export type PointOfInterest = {
-	id: string;
+export type FSQPlace = {
+	fsq_id: string;
 	name: string;
+	description: string;
+	categories: {
+		id: number;
+		name: string;
+		icon: {
+			prefix: string;
+			suffix: string;
+		};
+	}[];
+	geocodes: {
+		main: {
+			latitude: number;
+			longitude: number;
+		};
+	};
+	photos: {
+		id: string;
+		prefix: string;
+		suffix: string;
+	};
+};
 
+export type FSQPointOfInterest = FSQPlace & {
+	snippet: Snippet;
 	/** Distance from current location in metres */
 	distance: number;
-
-	snippet: Snippet;
-	tag: Tag;
 };
