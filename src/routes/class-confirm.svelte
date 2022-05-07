@@ -4,7 +4,20 @@
 <script lang="ts">
 	import { goto } from '$app/navigation';
 	import { relevantTags, state } from '$lib/state';
-	import type { Tag } from '$lib/types';
+
+	async function confirmClass() {
+		const res = await fetch('/api/destination.json', {
+			method: 'POST',
+			body: JSON.stringify({
+				currentLocation: $state.currentLocation,
+				visited: $state.visitedPlaces.map(([fsq_id]) => fsq_id),
+				relevantCategories: $state.character?.preferences
+			})
+		});
+
+		$state.destinationChoices = await res.json();
+		goto('/story/choose-path');
+	}
 </script>
 
 <h1>During your journey as a(n) {$state.character?.name} you will visit</h1>
@@ -19,7 +32,7 @@
 		</p>
 	</section>
 {/each}
-<button class="action-btn confirm" on:click={() => goto('story?page=1')}>Let's go!</button>
+<button class="action-btn confirm" on:click={confirmClass}>Let's go!</button>
 <button class="action-btn cancel" on:click={() => goto('class-select')}>Reconsider</button>
 
 <style>

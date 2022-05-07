@@ -3,7 +3,7 @@ import type { Character, FSQPointOfInterest, FSQTags } from '$lib/types';
 
 export const state = writable({
 	currentLocation: '',
-	visitedPlaces: [] as string[],
+	visitedPlaces: [] as [string, number][],
 	character: null as Character | null,
 	tags: {} as FSQTags,
 	destinationChoices: [] as FSQPointOfInterest[]

@@ -3,7 +3,7 @@ import { getPlacesNearby, getPlacesNearbyCached } from '$lib/foursquare';
 import { pickNearest } from '$lib/pathfinding';
 import type { FSQPlace, FSQPointOfInterest, Snippet } from '$lib/types';
 import type { RequestHandler } from '@sveltejs/kit';
-import { pick, sample } from 'lodash';
+import { pick, sample, sampleSize } from 'lodash';
 
 export type DestinationRequest = {
 	/** `fsq_id` of the user's current location */
@@ -42,12 +42,10 @@ export const post: RequestHandler<never, DestinationResponse> = async ({ request
 		return false;
 	});
 
-	const currentLocation = places.find((poi) => poi.fsq_id === posted.currentLocation)!;
+	const currentLocation = places.find((poi) => poi.fsq_id === posted.currentLocation);
 
 	// Remove current and already visited locations
-	const possibleChoices = relevantPlaces
-		.filter((poi) => !posted.visited.includes(poi.fsq_id))
-		.filter((poi) => poi.fsq_id !== currentLocation.fsq_id);
+	const possibleChoices = relevantPlaces.filter((poi) => !posted.visited.includes(poi.fsq_id));
 
 	// Remove locations discarded by user
 	let excludeSuccessful = true;
@@ -59,7 +57,9 @@ export const post: RequestHandler<never, DestinationResponse> = async ({ request
 		excludeSuccessful = false;
 	}
 
-	const nearest = pickNearest(currentLocation, choices, n);
+	const nearest = currentLocation
+		? pickNearest(currentLocation, choices, n)
+		: sampleSize(choices, n).map((place) => [place, 0] as const);
 	const incompleteDestinations: Partial<FSQPointOfInterest>[] = nearest.map(([poi, distance]) => ({
 		...poi,
 		distance
