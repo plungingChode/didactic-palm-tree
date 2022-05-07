@@ -1,0 +1,32 @@
+[
+	{
+		"name": "adventurer",
+		"picture_url": "adventurer_icon1.jpeg",
+		"preferred_tag_ids": [16020,16046,16047,16053,16019]
+	},
+	{
+		"name": "bard",
+		"picture_url": "bard_icon0.jpg",
+		"preferred_tag_ids": []
+	},
+	{
+		"name": "barbarian",
+		"picture_url": "barbarien_icon1.jpeg",
+		"preferred_tag_ids": []
+	},
+	{
+		"name": "historian",
+		"picture_url": "historian_icon1.jpeg",
+		"preferred_tag_ids": []
+	},
+	{
+		"name": "druid",
+		"picture_url": "druid_icon1.jpeg",
+		"preferred_tag_ids": []
+	},
+	{
+		"name": "wizard",
+		"picture_url": "wizard_icon1.jpeg",
+		"preferred_tag_ids": []
+	}
+]

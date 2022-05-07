@@ -27,8 +27,9 @@ export type Tag = {
 export type Character = {
 	id: number;
 	name: string;
-	preferences: Tag[];
+	preferences: number[];
 	isUserCreated: boolean;
+	pictureURL: string;
 };
 
 export type Snippet = {
@@ -76,4 +77,10 @@ export type FSQPointOfInterest = FSQPlace & {
 	snippet: Snippet;
 	/** Distance from current location in metres */
 	distance: number;
+};
+
+export type FSQTags = {
+	[key: string]: {
+		full_label: string[];
+	};
 };

@@ -1,8 +1,5 @@
-DROP TABLE IF EXISTS tag_snippets;
-DROP TABLE IF EXISTS point_of_interest_tags;
 DROP TABLE IF EXISTS character_preferences;
 DROP TABLE IF EXISTS tags;
-DROP TABLE IF EXISTS points_of_interest;
 DROP TABLE IF EXISTS story_parts;
 DROP TABLE IF EXISTS stories;
 DROP TABLE IF EXISTS story_snippets;
@@ -16,17 +13,22 @@ CREATE TABLE users (
 );
 
 CREATE TABLE characters (
-    id          INTEGER,
-    name        TEXT,
-    created_by  TEXT,
-    PRIMARY KEY(id)
+    id                  INTEGER,
+    name                TEXT,
+    created_by          TEXT,
+    picture_url         TEXT,
+    preferred_tag_ids   TEXT,
+    PRIMARY KEY(id),
     FOREIGN KEY(created_by) REFERENCES users(id)
 );
 
 CREATE TABLE story_snippets (
     id          INTEGER,
+    tag_id      INTEGER,
     title       TEXT,
+    action      TEXT,
     lore        TEXT,
+    picture_url TEXT,
     PRIMARY KEY(id)
 );
 
@@ -48,41 +50,9 @@ CREATE TABLE story_parts (
     FOREIGN KEY(snippet_id) REFERENCES story_snippets(id)
 );
 
-CREATE TABLE points_of_interest (
-    id          TEXT, -- Foursquare ID string
-    name        TEXT,
-    lat         REAL,
-    lon         REAL,
-    PRIMARY KEY(id)
-);
-
 CREATE TABLE tags (
     id      INTEGER,
     name    TEXT,
     icon    TEXT,
     PRIMARY KEY(id)
-);
-
-CREATE TABLE character_preferences (
-    character_id        INTEGER,
-    preference_tag_id   INTEGER,
-    PRIMARY KEY(character_id, preference_tag_id),
-    FOREIGN KEY(character_id) REFERENCES characters(id),
-    FOREIGN KEY(preference_tag_id) REFERENCES tags(id)
-);
-
-CREATE TABLE point_of_interest_tags (
-    poi_id  TEXT,
-    tag_id  INTEGER,
-    PRIMARY KEY(poi_id, tag_id),
-    FOREIGN KEY(poi_id) REFERENCES points_of_interest(id),
-    FOREIGN KEY(tag_id) REFERENCES tags(id)
-);
-
-CREATE TABLE tag_snippets (
-    tag_id      INTEGER,
-    snippet_id  INTEGER,
-    PRIMARY KEY(tag_id, snippet_id),
-    FOREIGN KEY(tag_id) REFERENCES tags(id),
-    FOREIGN KEY(snippet_id) REFERENCES story_snippets(id)
 );

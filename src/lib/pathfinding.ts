@@ -24,7 +24,12 @@ export function pickNearest<T>(currentPos: T & HasLocation, choices: (T & HasLoc
 	let minDistance = Number.MAX_VALUE;
 
 	for (const c of choices) {
-		const d = shortestDistance(currentPos.lat, currentPos.lon, c.lat, c.lon);
+		const d = shortestDistance(
+			currentPos.geocodes.main.latitude,
+			currentPos.geocodes.main.longitude,
+			c.geocodes.main.latitude,
+			c.geocodes.main.longitude
+		);
 		minDistance = Math.min(minDistance, d);
 		distances.push([c, d]);
 	}
@@ -71,7 +76,12 @@ class Pathfinder {
 		let minDistance = Number.MAX_VALUE;
 
 		for (const c of this.currentChoices) {
-			const d = shortestDistance(currentPos.lat, currentPos.lon, c.lat, c.lon);
+			const d = shortestDistance(
+				currentPos.geocodes.main.latitude,
+				currentPos.geocodes.main.longitude,
+				c.geocodes.main.latitude,
+				c.geocodes.main.longitude
+			);
 			minDistance = Math.min(minDistance, d);
 			distances.push([c, d]);
 		}

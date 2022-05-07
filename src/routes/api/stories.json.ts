@@ -51,6 +51,7 @@ export const get: RequestHandler = async ({ params, url }) => {
 			currentStory.snippets.push({
 				title: result[i].snippetTitle,
 				lore: result[i].snippetLore,
+				action: '',
 				params: JSON.parse(result[i].rawParams)
 			});
 			i++;

@@ -1,2270 +1,3809 @@
 {
-    "results": [
-      {
-        "fsq_id": "4c1d22e0624b9c740ee61204",
-        "categories": [
-          {
-            "id": 10027,
-            "name": "Museum",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 216,
-        "geocodes": {
-          "main": {
-            "latitude": 47.496322,
-            "longitude": 19.039728
-          },
-          "roof": {
-            "latitude": 47.496322,
-            "longitude": 19.039728
-          }
-        },
-        "link": "/v3/places/4c1d22e0624b9c740ee61204",
-        "location": {
-          "address": "Szent György tér 2",
-          "country": "HU",
-          "formatted_address": "Budapest, Szent György tér 2, 1014",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District I"
-          ],
-          "postcode": "1014",
-          "region": "Budapest"
-        },
-        "name": "Hungarian National Gallery (Magyar Nemzeti Galéria)",
-        "related_places": {
-          "parent": {
-            "fsq_id": "4bc9f998937ca59338c2a692",
-            "name": "Budavári Palota"
-          },
-          "children": [
-            {
-              "fsq_id": "52082a5211d265b2d4c5e022",
-              "name": "Kupola"
-            },
-            {
-              "fsq_id": "5b8a84222f97ec002cb9b3da",
-              "name": "Frida Kahlo Exhibition"
-            },
-            {
-              "fsq_id": "5db2f7f5277f1b0008fa2d90",
-              "name": "Museum Terrace"
-            }
-          ]
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4d46bd852e326ea83a21faa6",
-        "categories": [
-          {
-            "id": 16041,
-            "name": "Plaza",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 306,
-        "geocodes": {
-          "main": {
-            "latitude": 47.499148,
-            "longitude": 19.035686
-          },
-          "roof": {
-            "latitude": 47.499148,
-            "longitude": 19.035686
-          }
-        },
-        "link": "/v3/places/4d46bd852e326ea83a21faa6",
-        "location": {
-          "address": "Dísz tér",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Dísz tér, 1014",
-          "locality": "Budapest",
-          "postcode": "1014",
-          "region": "Budapest"
-        },
-        "name": "Dísz Tér",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4d298eccc406721e6a537cb6",
-        "categories": [
-          {
-            "id": 16020,
-            "name": "Historic and Protected Site",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 16046,
-            "name": "Scenic Lookout",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 576,
-        "geocodes": {
-          "main": {
-            "latitude": 47.502064,
-            "longitude": 19.034922
-          },
-          "roof": {
-            "latitude": 47.502064,
-            "longitude": 19.034922
-          }
-        },
-        "link": "/v3/places/4d298eccc406721e6a537cb6",
-        "location": {
-          "address": "Szentháromság tér 5",
-          "country": "HU",
-          "formatted_address": "Budapest, Szentháromság tér 5, 1014",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District I / Buda"
-          ],
-          "postcode": "1014",
-          "region": "Budapest"
-        },
-        "name": "Fisherman's Bastion (Halászbástya)",
-        "related_places": {
-          "children": [
-            {
-              "fsq_id": "59afece74a7aae7ed527df65",
-              "name": "Hungarian History 3D Chapel In The Rock"
-            },
-            {
-              "fsq_id": "4c72c7ed4bc4236a4330cc7a",
-              "name": "Halászbástya Étterem"
-            },
-            {
-              "fsq_id": "5931955f123a1963f5eb269d",
-              "name": "Chimney Cake"
-            }
-          ]
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4bf42b4bff90c9b6faec5428",
-        "categories": [
-          {
-            "id": 13025,
-            "name": "Wine Bar",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 491,
-        "geocodes": {
-          "main": {
-            "latitude": 47.502381,
-            "longitude": 19.039084
-          },
-          "roof": {
-            "latitude": 47.502381,
-            "longitude": 19.039084
-          }
-        },
-        "link": "/v3/places/4bf42b4bff90c9b6faec5428",
-        "location": {
-          "address": "Fő u. 29",
-          "country": "HU",
-          "cross_street": "Corvin tér",
-          "formatted_address": "Budapest, Fő u. 29 (Corvin tér), 1011",
-          "locality": "Budapest",
-          "postcode": "1011",
-          "region": "Budapest"
-        },
-        "name": "Mátra borozó",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "58669c223e9dfb1137a06579",
-        "categories": [
-          {
-            "id": 13276,
-            "name": "Sushi Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 571,
-        "geocodes": {
-          "main": {
-            "latitude": 47.503196,
-            "longitude": 19.039334
-          },
-          "roof": {
-            "latitude": 47.503196,
-            "longitude": 19.039334
-          }
-        },
-        "link": "/v3/places/58669c223e9dfb1137a06579",
-        "location": {
-          "address": "Bem rakpart 20",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Bem rakpart 20, 1011",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Budapest I. kerülete, Budapest"
-          ],
-          "postcode": "1011",
-          "region": "Budapest"
-        },
-        "name": "Ennmann Japán Étterem",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "556cb9ad498e98bd14516f61",
-        "categories": [
-          {
-            "id": 13197,
-            "name": "Hungarian Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13310,
-            "name": "Modern European Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 622,
-        "geocodes": {
-          "main": {
-            "latitude": 47.499769,
-            "longitude": 19.047874
-          },
-          "roof": {
-            "latitude": 47.499769,
-            "longitude": 19.047874
-          }
-        },
-        "link": "/v3/places/556cb9ad498e98bd14516f61",
-        "location": {
-          "address": "Széchenyi István tér 5-6",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Széchenyi István tér 5-6, 1051",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District V / Inner City"
-          ],
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "KOLLÁZS Brasserie & Bar",
-        "related_places": {
-          "parent": {
-            "fsq_id": "4ba0b834f964a5204c7937e3",
-            "name": "Four Seasons Hotel Gresham Palace Budapest"
-          }
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4dc81ed218387d1bd57fbad3",
-        "categories": [
-          {
-            "id": 16053,
-            "name": "Waterfront",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 577,
-        "geocodes": {
-          "main": {
-            "latitude": 47.501582,
-            "longitude": 19.045244
-          }
-        },
-        "link": "/v3/places/4dc81ed218387d1bd57fbad3",
-        "location": {
-          "address": "Széchenyi István tér",
-          "country": "HU",
-          "cross_street": "Lánchíd pesti hídfő",
-          "formatted_address": "Budapest XIII. kerülete, Széchenyi István tér (Lánchíd pesti hídfő), 1051",
-          "locality": "Angyalföld",
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "Duna-part",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "5059c340e4b082424ecc9822",
-        "categories": [
-          {
-            "id": 16046,
-            "name": "Scenic Lookout",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 674,
-        "geocodes": {
-          "main": {
-            "latitude": 47.501278,
-            "longitude": 19.032373
-          },
-          "roof": {
-            "latitude": 47.501278,
-            "longitude": 19.032373
-          }
-        },
-        "link": "/v3/places/5059c340e4b082424ecc9822",
-        "location": {
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "",
-          "postcode": ""
-        },
-        "name": "Várnegyed",
-        "related_places": {
-          "children": [
-            {
-              "fsq_id": "5c23e07fa35dce002c374f1f",
-              "name": "Fatum Tattoo"
-            }
-          ]
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "5245964611d2262a9c14c499",
-        "categories": [
-          {
-            "id": 13027,
-            "name": "Bistro",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13040,
-            "name": "Dessert Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13197,
-            "name": "Hungarian Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 723,
-        "geocodes": {
-          "main": {
-            "latitude": 47.492255,
-            "longitude": 19.044202
-          },
-          "roof": {
-            "latitude": 47.492255,
-            "longitude": 19.044202
-          }
-        },
-        "link": "/v3/places/5245964611d2262a9c14c499",
-        "location": {
-          "address": "Döbrentei u. 15",
-          "country": "HU",
-          "cross_street": "bejárat az Attila úton",
-          "formatted_address": "Budapest, Döbrentei u. 15 (bejárat az Attila úton), 1013",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District I / Buda"
-          ],
-          "postcode": "1013",
-          "region": "Budapest"
-        },
-        "name": "Asztalka",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4c72c7ed4bc4236a4330cc7a",
-        "categories": [
-          {
-            "id": 13197,
-            "name": "Hungarian Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 646,
-        "geocodes": {
-          "main": {
-            "latitude": 47.502442,
-            "longitude": 19.034778
-          },
-          "roof": {
-            "latitude": 47.502442,
-            "longitude": 19.034778
-          }
-        },
-        "link": "/v3/places/4c72c7ed4bc4236a4330cc7a",
-        "location": {
-          "address": "Budai Vár Halászbástya, Északi Híradástorony, Budapest, 1014",
-          "country": "HU",
-          "formatted_address": "Budapest, Budai Vár Halászbástya, Északi Híradástorony, Budapest, 1014, 1014",
-          "locality": "Budapest",
-          "postcode": "1014",
-          "region": "Budapest"
-        },
-        "name": "Halászbástya Étterem",
-        "related_places": {
-          "parent": {
-            "fsq_id": "4d298eccc406721e6a537cb6",
-            "name": "Fisherman's Bastion"
-          }
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4c51a1ab3940be9ae8852e09",
-        "categories": [
-          {
-            "id": 10030,
-            "name": "History Museum",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 684,
-        "geocodes": {
-          "main": {
-            "latitude": 47.500457,
-            "longitude": 19.031633
-          },
-          "roof": {
-            "latitude": 47.500457,
-            "longitude": 19.031633
-          }
-        },
-        "link": "/v3/places/4c51a1ab3940be9ae8852e09",
-        "location": {
-          "address": "Lovas út 4/c",
-          "country": "HU",
-          "formatted_address": "Budapest, Lovas út 4/c, 1012",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Krisztinaváros"
-          ],
-          "postcode": "1012",
-          "region": "Budapest"
-        },
-        "name": "Hospital in the Rock (Sziklakórház és Atombunker)",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4cd9774a51fc8cfa466eef5d",
-        "categories": [
-          {
-            "id": 10047,
-            "name": "Public Art",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 749,
-        "geocodes": {
-          "main": {
-            "latitude": 47.503843,
-            "longitude": 19.044917
-          }
-        },
-        "link": "/v3/places/4cd9774a51fc8cfa466eef5d",
-        "location": {
-          "address": "id. Antal József rakpart",
-          "country": "HU",
-          "cross_street": "Zoltán u.",
-          "formatted_address": "Budapest, id. Antal József rakpart (Zoltán u.), 1054",
-          "locality": "Budapest",
-          "postcode": "1054",
-          "region": "Budapest"
-        },
-        "name": "Shoes on the Danube Bank (Cipők a Duna-parton)",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4f44cf57e4b093577fc6710f",
-        "categories": [
-          {
-            "id": 13064,
-            "name": "Pizzeria",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13236,
-            "name": "Italian Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 750,
-        "geocodes": {
-          "main": {
-            "latitude": 47.501723,
-            "longitude": 19.048279
-          },
-          "roof": {
-            "latitude": 47.501723,
-            "longitude": 19.048279
-          }
-        },
-        "link": "/v3/places/4f44cf57e4b093577fc6710f",
-        "location": {
-          "address": "Arany János u. 9",
-          "country": "HU",
-          "cross_street": "Nádor u.",
-          "formatted_address": "Budapest, Arany János u. 9 (Nádor u.), 1051",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District V / Inner City"
-          ],
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "Trattoria Pomo D'Oro",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "53c6a149498ecf3134ca4d69",
-        "categories": [
-          {
-            "id": 13025,
-            "name": "Wine Bar",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 785,
-        "geocodes": {
-          "main": {
-            "latitude": 47.502105,
-            "longitude": 19.048526
-          },
-          "roof": {
-            "latitude": 47.502105,
-            "longitude": 19.048526
-          }
-        },
-        "link": "/v3/places/53c6a149498ecf3134ca4d69",
-        "location": {
-          "address": "Arany János u. 12",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Arany János u. 12, 1051",
-          "locality": "Budapest",
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "DOC Vino Bar",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "506ee78fe4b0f919387f5d1b",
-        "categories": [
-          {
-            "id": 13035,
-            "name": "Coffee Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13036,
-            "name": "Tea Room",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 891,
-        "geocodes": {
-          "main": {
-            "latitude": 47.501959,
-            "longitude": 19.050042
-          },
-          "roof": {
-            "latitude": 47.501959,
-            "longitude": 19.050042
-          }
-        },
-        "link": "/v3/places/506ee78fe4b0f919387f5d1b",
-        "location": {
-          "address": "Arany János u. 15",
-          "country": "HU",
-          "formatted_address": "Budapest, Arany János u. 15, 1051",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District V / Inner City"
-          ],
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "Espresso Embassy",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "5344e72f498e4a0cb75e5c82",
-        "categories": [
-          {
-            "id": 13000,
-            "name": "Dining and Drinking",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 835,
-        "geocodes": {
-          "main": {
-            "latitude": 47.49615,
-            "longitude": 19.029012
-          },
-          "roof": {
-            "latitude": 47.49615,
-            "longitude": 19.029012
-          }
-        },
-        "link": "/v3/places/5344e72f498e4a0cb75e5c82",
-        "location": {
-          "address": "Kosciuszkó Tádé u. 4",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Kosciuszkó Tádé u. 4, 1012",
-          "locality": "Budapest",
-          "postcode": "1012",
-          "region": "Budapest"
-        },
-        "name": "Rojt és Bojt kávéskuckó",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "5496f3b4498e84ed82fc544f",
-        "categories": [
-          {
-            "id": 13002,
-            "name": "Bakery",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13042,
-            "name": "Cupcake Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cupcakes_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 954,
-        "geocodes": {
-          "main": {
-            "latitude": 47.50009,
-            "longitude": 19.052427
-          },
-          "roof": {
-            "latitude": 47.50009,
-            "longitude": 19.052427
-          }
-        },
-        "link": "/v3/places/5496f3b4498e84ed82fc544f",
-        "location": {
-          "address": "Sas u. 7",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Sas u. 7, 1051",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Lipótváros"
-          ],
-          "postcode": "1051"
-        },
-        "name": "Chez Dodo macaron manufaktúra",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4c3e0b7fdb3b1b8d55dd6495",
-        "categories": [
-          {
-            "id": 13148,
-            "name": "French Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13236,
-            "name": "Italian Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 951,
-        "geocodes": {
-          "main": {
-            "latitude": 47.494391,
-            "longitude": 19.05136
-          },
-          "roof": {
-            "latitude": 47.494391,
-            "longitude": 19.05136
-          }
-        },
-        "link": "/v3/places/4c3e0b7fdb3b1b8d55dd6495",
-        "location": {
-          "address": "Aranykéz u. 2",
-          "country": "HU",
-          "formatted_address": "Budapest, Aranykéz u. 2, 1051",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District V"
-          ],
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "Comme Chez Soi",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4d63eef0625f6dcb3d25715e",
-        "categories": [
-          {
-            "id": 17018,
-            "name": "Bookstore",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 887,
-        "geocodes": {
-          "main": {
-            "latitude": 47.500889,
-            "longitude": 19.051209
-          },
-          "roof": {
-            "latitude": 47.500889,
-            "longitude": 19.051209
-          }
-        },
-        "link": "/v3/places/4d63eef0625f6dcb3d25715e",
-        "location": {
-          "address": "Október 6. u. 11",
-          "country": "HU",
-          "formatted_address": "Budapest, Október 6. u. 11, 1051",
-          "locality": "Budapest",
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "Bestsellers Kft",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "52583f8511d20dd53ee895cb",
-        "categories": [
-          {
-            "id": 10000,
-            "name": "Arts and Entertainment",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13009,
-            "name": "Cocktail Bar",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13013,
-            "name": "Hotel Bar",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 933,
-        "geocodes": {
-          "main": {
-            "latitude": 47.497328,
-            "longitude": 19.052457
-          },
-          "roof": {
-            "latitude": 47.497328,
-            "longitude": 19.052457
-          }
-        },
-        "link": "/v3/places/52583f8511d20dd53ee895cb",
-        "location": {
-          "address": "Erzsébet tér 7-8",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Erzsébet tér 7-8, 1051",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District V / Inner City"
-          ],
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "Blue Fox The Bar",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4d6ea7152427224ba39ad04d",
-        "categories": [
-          {
-            "id": 13139,
-            "name": "Eastern European Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13197,
-            "name": "Hungarian Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 958,
-        "geocodes": {
-          "main": {
-            "latitude": 47.499495,
-            "longitude": 19.05257
-          },
-          "roof": {
-            "latitude": 47.499495,
-            "longitude": 19.05257
-          }
-        },
-        "link": "/v3/places/4d6ea7152427224ba39ad04d",
-        "location": {
-          "address": "Sas u. 3",
-          "country": "HU",
-          "formatted_address": "Budapest, Sas u. 3, 1051",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Lipótváros"
-          ],
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "Borkonyha",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4c14feca77cea593c765d160",
-        "categories": [
-          {
-            "id": 13002,
-            "name": "Bakery",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13046,
-            "name": "Ice Cream Parlor",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1022,
-        "geocodes": {
-          "main": {
-            "latitude": 47.500313,
-            "longitude": 19.053016
-          },
-          "roof": {
-            "latitude": 47.500313,
-            "longitude": 19.053016
-          }
-        },
-        "link": "/v3/places/4c14feca77cea593c765d160",
-        "location": {
-          "address": "Szent István tér 3",
-          "country": "HU",
-          "cross_street": "Hercegprímás u.",
-          "formatted_address": "Budapest, Szent István tér 3 (Hercegprímás u.), 1051",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District V / Inner City"
-          ],
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "Gelarto Rosa",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "5da9ebb1a4f2c90007347eec",
-        "categories": [
-          {
-            "id": 13379,
-            "name": "Vietnamese Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vietnamese_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1004,
-        "geocodes": {
-          "main": {
-            "latitude": 47.495379,
-            "longitude": 19.052541
-          },
-          "roof": {
-            "latitude": 47.495379,
-            "longitude": 19.052541
-          }
-        },
-        "link": "/v3/places/5da9ebb1a4f2c90007347eec",
-        "location": {
-          "address": "Szervita tér 2",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Szervita tér 2, 1052",
-          "locality": "Budapest",
-          "postcode": "1052",
-          "region": "Budapest"
-        },
-        "name": "Oriental Soup House - Szervita tér Budapest",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4d1ca49b2dd937040c514db5",
-        "categories": [
-          {
-            "id": 16047,
-            "name": "Sculpture Garden",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 16032,
-            "name": "Park",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 961,
-        "geocodes": {
-          "main": {
-            "latitude": 47.489492,
-            "longitude": 19.039193
-          }
-        },
-        "link": "/v3/places/4d1ca49b2dd937040c514db5",
-        "location": {
-          "address": "Filozófusok sétaútja",
-          "country": "HU",
-          "formatted_address": "Budapest, Filozófusok sétaútja, 1016",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Gellért-hegy"
-          ],
-          "postcode": "1016"
-        },
-        "name": "Filozófusok kertje",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4e194f68d1648b83483b3984",
-        "categories": [
-          {
-            "id": 16026,
-            "name": "Monument",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1019,
-        "geocodes": {
-          "main": {
-            "latitude": 47.489616,
-            "longitude": 19.045603
-          }
-        },
-        "link": "/v3/places/4e194f68d1648b83483b3984",
-        "location": {
-          "address": "Gellért-hegy",
-          "address_extended": "Budapest, Gellért tér, 1016 Magyarország",
-          "country": "HU",
-          "formatted_address": "Budapest, Gellért-hegy, 1016",
-          "locality": "Budapest",
-          "postcode": "1016",
-          "region": "Budapest"
-        },
-        "name": "Szent Gellért Szobor",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4ceffd7bd7268cfa90c4d24e",
-        "categories": [
-          {
-            "id": 17080,
-            "name": "Wine Store",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1067,
-        "geocodes": {
-          "main": {
-            "latitude": 47.505574,
-            "longitude": 19.048843
-          },
-          "roof": {
-            "latitude": 47.505574,
-            "longitude": 19.048843
-          }
-        },
-        "link": "/v3/places/4ceffd7bd7268cfa90c4d24e",
-        "location": {
-          "address": "Vécsey u. 5",
-          "country": "HU",
-          "formatted_address": "Budapest, Vécsey u. 5, 1054",
-          "locality": "Budapest",
-          "postcode": "1054",
-          "region": "Budapest"
-        },
-        "name": "Bortársaság",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "5cf3f516b3d8e2002c86367f",
-        "categories": [
-          {
-            "id": 17069,
-            "name": "Grocery Store / Supermarket",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 991,
-        "geocodes": {
-          "main": {
-            "latitude": 47.491379,
-            "longitude": 19.031084
-          }
-        },
-        "link": "/v3/places/5cf3f516b3d8e2002c86367f",
-        "location": {
-          "address": "Mészáros u. 54",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Mészáros u. 54, 1016",
-          "locality": "Budapest",
-          "postcode": "1016",
-          "region": "Budapest"
-        },
-        "name": "Aldi",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "53aeadfc498e59958f246fac",
-        "categories": [
-          {
-            "id": 16046,
-            "name": "Scenic Lookout",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1103,
-        "geocodes": {
-          "main": {
-            "latitude": 47.500786,
-            "longitude": 19.054021
-          }
-        },
-        "link": "/v3/places/53aeadfc498e59958f246fac",
-        "location": {
-          "address": "Szent István tér, Budapest, 1051",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Szent István tér, Budapest, 1051, 1051",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Lipótváros"
-          ],
-          "postcode": "1051",
-          "region": "Budapest"
-        },
-        "name": "St. Stephen's Basilica Rooftop (Szent István Bazilika tetőtéri)",
-        "related_places": {
-          "parent": {
-            "fsq_id": "4baca843f964a52060013be3",
-            "name": "Szent István Bazilika"
-          }
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "59bbbfd3ccad6b1ceb205887",
-        "categories": [
-          {
-            "id": 17030,
-            "name": "Cosmetics Store",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1015,
-        "geocodes": {
-          "main": {
-            "latitude": 47.497337,
-            "longitude": 19.053338
-          },
-          "roof": {
-            "latitude": 47.497337,
-            "longitude": 19.053338
-          }
-        },
-        "link": "/v3/places/59bbbfd3ccad6b1ceb205887",
-        "location": {
-          "address": "Deák Ferenc u. 21",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Deák Ferenc u. 21, 1052",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Budapest V. kerülete"
-          ],
-          "postcode": "1052",
-          "region": "Budapest"
-        },
-        "name": "Lush",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "54722d90498eafa3c17f4a67",
-        "categories": [
-          {
-            "id": 11073,
-            "name": "Spa",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/spa_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1082,
-        "geocodes": {
-          "main": {
-            "latitude": 47.507513,
-            "longitude": 19.037992
-          },
-          "roof": {
-            "latitude": 47.507513,
-            "longitude": 19.037992
-          }
-        },
-        "link": "/v3/places/54722d90498eafa3c17f4a67",
-        "location": {
-          "address": "Csalogany u. 4\\u002Fa",
-          "country": "HU",
-          "cross_street": "Fö utca",
-          "formatted_address": "Budapest, Csalogany u. 4\\u002Fa (Fö utca), 1015",
-          "locality": "Budapest",
-          "postcode": "1015",
-          "region": "Budapest"
-        },
-        "name": "5 Elements Balinese Day Spa",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "55b5e473498e8431c3fdaf69",
-        "categories": [
-          {
-            "id": 13002,
-            "name": "Bakery",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13032,
-            "name": "Cafes, Coffee, and Tea Houses",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1151,
-        "geocodes": {
-          "main": {
-            "latitude": 47.503723,
-            "longitude": 19.052892
-          },
-          "roof": {
-            "latitude": 47.503723,
-            "longitude": 19.052892
-          }
-        },
-        "link": "/v3/places/55b5e473498e8431c3fdaf69",
-        "location": {
-          "address": "Hold u. 3",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Hold u. 3, 1054",
-          "locality": "Budapest",
-          "postcode": "1054",
-          "region": "Budapest"
-        },
-        "name": "Artizán Budapest",
-        "related_places": {
-          "parent": {
-            "fsq_id": "4bdf12c07ea362b5cb4e43c4",
-            "name": "Hotel President Budapest"
-          }
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4bf80dbb508c0f47ad353e31",
-        "categories": [
-          {
-            "id": 10043,
-            "name": "Theater",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1211,
-        "geocodes": {
-          "main": {
-            "latitude": 47.493669,
-            "longitude": 19.054682
-          },
-          "roof": {
-            "latitude": 47.493669,
-            "longitude": 19.054682
-          }
-        },
-        "link": "/v3/places/4bf80dbb508c0f47ad353e31",
-        "location": {
-          "address": "Petőfi Sándor u. 6",
-          "country": "HU",
-          "cross_street": "Ferenciek tere",
-          "formatted_address": "Budapest, Petőfi Sándor u. 6 (Ferenciek tere), 1052",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Pest"
-          ],
-          "postcode": "1052",
-          "region": "Budapest"
-        },
-        "name": "Katona József Színház",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "584898e752a051634703ec8a",
-        "categories": [
-          {
-            "id": 13026,
-            "name": "BBQ Joint",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13035,
-            "name": "Coffee Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1177,
-        "geocodes": {
-          "main": {
-            "latitude": 47.500879,
-            "longitude": 19.05527
-          },
-          "roof": {
-            "latitude": 47.500879,
-            "longitude": 19.05527
-          }
-        },
-        "link": "/v3/places/584898e752a051634703ec8a",
-        "location": {
-          "address": "Bajcsy-Zsilinszky út 15",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Bajcsy-Zsilinszky út 15, 1065",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Terézváros"
-          ],
-          "postcode": "1065",
-          "region": "Budapest"
-        },
-        "name": "Meatology Budapest",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "5166e153e4b02129db3b1e34",
-        "categories": [
-          {
-            "id": 13002,
-            "name": "Bakery",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1160,
-        "geocodes": {
-          "main": {
-            "latitude": 47.507015,
-            "longitude": 19.032117
-          },
-          "roof": {
-            "latitude": 47.507015,
-            "longitude": 19.032117
-          }
-        },
-        "link": "/v3/places/5166e153e4b02129db3b1e34",
-        "location": {
-          "address": "Batthyány u. 24",
-          "country": "HU",
-          "cross_street": "Hattyú u.",
-          "formatted_address": "Budapest, Batthyány u. 24 (Hattyú u.), 1015",
-          "locality": "Budapest",
-          "postcode": "1015",
-          "region": "Budapest"
-        },
-        "name": "Pékműhely",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4d7e30ebf635236a4f216316",
-        "categories": [
-          {
-            "id": 16019,
-            "name": "Hiking Trail",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1228,
-        "geocodes": {
-          "main": {
-            "latitude": 47.487218,
-            "longitude": 19.044217
-          }
-        },
-        "link": "/v3/places/4d7e30ebf635236a4f216316",
-        "location": {
-          "address": "Citadella sétány",
-          "country": "HU",
-          "formatted_address": "Budapest, Citadella sétány, 1118",
-          "locality": "Budapest",
-          "postcode": "1118",
-          "region": "Budapest"
-        },
-        "name": "Citadella Sétány",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4db91b804b22a2fe44eb2c9b",
-        "categories": [
-          {
-            "id": 11064,
-            "name": "Hair Salon",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/salon_barber_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1178,
-        "geocodes": {
-          "main": {
-            "latitude": 47.505381,
-            "longitude": 19.050995
-          },
-          "roof": {
-            "latitude": 47.505381,
-            "longitude": 19.050995
-          }
-        },
-        "link": "/v3/places/4db91b804b22a2fe44eb2c9b",
-        "location": {
-          "address": "Aulich u. 4-6",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Aulich u. 4-6, 1054",
-          "locality": "Budapest",
-          "postcode": "1054",
-          "region": "Budapest"
-        },
-        "name": "Metropolitan Beauty",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "5f745f033d7c6467d2621985",
-        "categories": [
-          {
-            "id": 13006,
-            "name": "Beer Bar",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1170,
-        "geocodes": {
-          "main": {
-            "latitude": 47.498122,
-            "longitude": 19.055505
-          }
-        },
-        "link": "/v3/places/5f745f033d7c6467d2621985",
-        "location": {
-          "address": "Anker köz 1-3",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Anker köz 1-3, 1061",
-          "locality": "Budapest",
-          "postcode": "1061",
-          "region": "Budapest"
-        },
-        "name": "MADHOUSE Craft Beer & Bistro",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4b7f0134f964a520ae0f30e3",
-        "categories": [
-          {
-            "id": 13009,
-            "name": "Cocktail Bar",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1221,
-        "geocodes": {
-          "main": {
-            "latitude": 47.499368,
-            "longitude": 19.055847
-          },
-          "roof": {
-            "latitude": 47.499368,
-            "longitude": 19.055847
-          }
-        },
-        "link": "/v3/places/4b7f0134f964a520ae0f30e3",
-        "location": {
-          "address": "Paulay Ede u. 5",
-          "country": "HU",
-          "formatted_address": "Budapest, Paulay Ede u. 5, 1061",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Terézváros"
-          ],
-          "postcode": "1061",
-          "region": "Budapest"
-        },
-        "name": "Boutiq'Bar",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4badd21af964a5205e6b3be3",
-        "categories": [
-          {
-            "id": 16020,
-            "name": "Historic and Protected Site",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1315,
-        "geocodes": {
-          "main": {
-            "latitude": 47.486998,
-            "longitude": 19.046345
-          }
-        },
-        "link": "/v3/places/4badd21af964a5205e6b3be3",
-        "location": {
-          "address": "Citadella sétány 1",
-          "country": "HU",
-          "formatted_address": "Budapest, Citadella sétány 1, 1118",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Újbuda"
-          ],
-          "postcode": "1118",
-          "region": "Budapest"
-        },
-        "name": "Citadella",
-        "related_places": {
-          "children": [
-            {
-              "fsq_id": "4badcb37f964a52093693be3",
-              "name": "Gellért hegyi kilátó"
-            },
-            {
-              "fsq_id": "4badd339f964a520a86b3be3",
-              "name": "Szabadság Szobor | Statue of Liberty"
-            },
-            {
-              "fsq_id": "6071b854c3c27f5e0e5776fb",
-              "name": "Citadella rét"
-            }
-          ]
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "58d8eee99435a979b83b5ed0",
-        "categories": [
-          {
-            "id": 13035,
-            "name": "Coffee Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1243,
-        "geocodes": {
-          "main": {
-            "latitude": 47.507361,
-            "longitude": 19.048806
-          },
-          "roof": {
-            "latitude": 47.507361,
-            "longitude": 19.048806
-          }
-        },
-        "link": "/v3/places/58d8eee99435a979b83b5ed0",
-        "location": {
-          "address": "Alkotmány u. 4",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Alkotmány u. 4, 1054",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Lipótváros"
-          ],
-          "postcode": "1054",
-          "region": "Budapest"
-        },
-        "name": "Madal Cafe - Espresso & Brew Bar - Alkotmány",
-        "related_places": {
-          "children": [
-            {
-              "fsq_id": "58ea04cf54073d7d2dc35194",
-              "name": "Madal Food - Vegan Restaurant"
-            }
-          ]
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "56309c3a498e038e73c8931d",
-        "categories": [
-          {
-            "id": 13035,
-            "name": "Coffee Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1267,
-        "geocodes": {
-          "main": {
-            "latitude": 47.502019,
-            "longitude": 19.055523
-          },
-          "roof": {
-            "latitude": 47.502019,
-            "longitude": 19.055523
-          }
-        },
-        "link": "/v3/places/56309c3a498e038e73c8931d",
-        "location": {
-          "address": "Lázár u. 7",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Lázár u. 7, 1065",
-          "locality": "Budapest",
-          "postcode": "1065",
-          "region": "Budapest"
-        },
-        "name": "9Bar Coffee",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4d73a5dbbce5721e03acde15",
-        "categories": [
-          {
-            "id": 16037,
-            "name": "Playground",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1282,
-        "geocodes": {
-          "main": {
-            "latitude": 47.487012,
-            "longitude": 19.040253
-          },
-          "roof": {
-            "latitude": 47.487012,
-            "longitude": 19.040253
-          }
-        },
-        "link": "/v3/places/4d73a5dbbce5721e03acde15",
-        "location": {
-          "address": "Bérc u. 31., Budapest, 1016",
-          "country": "HU",
-          "cross_street": "Szirtes u.",
-          "formatted_address": "Budapest, Bérc u. 31., Budapest, 1016 (Szirtes u.), 1016",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Gellérthegy"
-          ],
-          "postcode": "1016",
-          "region": "Budapest"
-        },
-        "name": "Vuk Játszótér",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4e07708a81dc6d6d36a5ecdb",
-        "categories": [
-          {
-            "id": 16027,
-            "name": "Mountain",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/mountain_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1395,
-        "geocodes": {
-          "main": {
-            "latitude": 47.486382,
-            "longitude": 19.046946
-          }
-        },
-        "link": "/v3/places/4e07708a81dc6d6d36a5ecdb",
-        "location": {
-          "address": "Gellért tér",
-          "country": "HU",
-          "formatted_address": "Budapest, Gellért tér, 1118",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Újbuda"
-          ],
-          "postcode": "1118",
-          "region": "Budapest"
-        },
-        "name": "Gellért Hill (Gellért-hegy)",
-        "related_places": {
-          "children": [
-            {
-              "fsq_id": "4c836d5d2f1c236aedc74243",
-              "name": "Gellért-hegyi csúszdák"
-            },
-            {
-              "fsq_id": "4c0c11fdffb8c9b6313d6e61",
-              "name": "Citadella Lounge"
-            },
-            {
-              "fsq_id": "5d25c8b37226a50023dcbe22",
-              "name": "Уютная скамейка под цветущим деревом - идеально для поедания арбуза"
-            }
-          ]
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "55bd02c4498e0546ea2a93f9",
-        "categories": [
-          {
-            "id": 13035,
-            "name": "Coffee Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1361,
-        "geocodes": {
-          "main": {
-            "latitude": 47.492602,
-            "longitude": 19.056143
-          },
-          "roof": {
-            "latitude": 47.492602,
-            "longitude": 19.056143
-          }
-        },
-        "link": "/v3/places/55bd02c4498e0546ea2a93f9",
-        "location": {
-          "address": "Ferenciek tere 3",
-          "country": "HU",
-          "cross_street": "Károlyi u.",
-          "formatted_address": "Budapest, Ferenciek tere 3 (Károlyi u.), 1053",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Belváros"
-          ],
-          "postcode": "1053",
-          "region": "Budapest"
-        },
-        "name": "Madal Cafe - Espresso & Brew Bar",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4f84035fe4b03669d25e1b75",
-        "categories": [
-          {
-            "id": 13027,
-            "name": "Bistro",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13035,
-            "name": "Coffee Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1339,
-        "geocodes": {
-          "main": {
-            "latitude": 47.497655,
-            "longitude": 19.057695
-          },
-          "roof": {
-            "latitude": 47.497655,
-            "longitude": 19.057695
-          }
-        },
-        "link": "/v3/places/4f84035fe4b03669d25e1b75",
-        "location": {
-          "address": "Madách Imre út 3",
-          "country": "HU",
-          "formatted_address": "Budapest, Madách Imre út 3, 1075",
-          "locality": "Budapest",
-          "neighborhood": [
-            "Erzsébetváros"
-          ],
-          "postcode": "1075",
-          "region": "Budapest"
-        },
-        "name": "My Little Melbourne Coffee",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4c6311a3e1621b8d80072553",
-        "categories": [
-          {
-            "id": 13035,
-            "name": "Coffee Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13064,
-            "name": "Pizzeria",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13236,
-            "name": "Italian Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1394,
-        "geocodes": {
-          "main": {
-            "latitude": 47.505157,
-            "longitude": 19.055251
-          },
-          "roof": {
-            "latitude": 47.505157,
-            "longitude": 19.055251
-          }
-        },
-        "link": "/v3/places/4c6311a3e1621b8d80072553",
-        "location": {
-          "address": "Bajcsy-Zsilinszky út 35",
-          "country": "HU",
-          "formatted_address": "Budapest, Bajcsy-Zsilinszky út 35, 1065",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District V / Inner City"
-          ],
-          "postcode": "1065",
-          "region": "Budapest"
-        },
-        "name": "Caffe GianMario",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "4cdadceefc9737046f44cb05",
-        "categories": [
-          {
-            "id": 10043,
-            "name": "Theater",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1386,
-        "geocodes": {
-          "main": {
-            "latitude": 47.49228,
-            "longitude": 19.056434
-          },
-          "roof": {
-            "latitude": 47.49228,
-            "longitude": 19.056434
-          }
-        },
-        "link": "/v3/places/4cdadceefc9737046f44cb05",
-        "location": {
-          "address": "Ferenciek tere 4",
-          "country": "HU",
-          "cross_street": "Reáltanoda u.",
-          "formatted_address": "Budapest, Ferenciek tere 4 (Reáltanoda u.), 1053",
-          "locality": "Budapest",
-          "postcode": "1053",
-          "region": "Budapest"
-        },
-        "name": "Katona József Színház - Kamra",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "50f5a2d6e4b0ae48c70f09b1",
-        "categories": [
-          {
-            "id": 13035,
-            "name": "Coffee Shop",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13065,
-            "name": "Restaurant",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1364,
-        "geocodes": {
-          "main": {
-            "latitude": 47.495653,
-            "longitude": 19.057828
-          },
-          "roof": {
-            "latitude": 47.495653,
-            "longitude": 19.057828
-          }
-        },
-        "link": "/v3/places/50f5a2d6e4b0ae48c70f09b1",
-        "location": {
-          "address": "Károly krt. 22. Röser udvar",
-          "country": "HU",
-          "cross_street": "Röser udvar",
-          "formatted_address": "Budapest, Károly krt. 22. Röser udvar (Röser udvar), 1052",
-          "locality": "Budapest",
-          "neighborhood": [
-            "District V / Inner City"
-          ],
-          "postcode": "1052",
-          "region": "Budapest"
-        },
-        "name": "Kontakt",
-        "related_places": {
-          "parent": {
-            "fsq_id": "521cc2ec11d2ff3e13ce02bd",
-            "name": "Röser udvar"
-          }
-        },
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "58827c3054073d0c8ddf198d",
-        "categories": [
-          {
-            "id": 13009,
-            "name": "Cocktail Bar",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1447,
-        "geocodes": {
-          "main": {
-            "latitude": 47.490707,
-            "longitude": 19.056277
-          },
-          "roof": {
-            "latitude": 47.490707,
-            "longitude": 19.056277
-          }
-        },
-        "link": "/v3/places/58827c3054073d0c8ddf198d",
-        "location": {
-          "address": "Veres Pálné u. 7",
-          "country": "HU",
-          "cross_street": "",
-          "formatted_address": "Budapest, Veres Pálné u. 7, 1056",
-          "locality": "Budapest",
-          "postcode": "1056",
-          "region": "Budapest"
-        },
-        "name": "GoodSpirit Whiskey & Cocktail Bar",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      },
-      {
-        "fsq_id": "515bdf0de4b0b6ac13e80627",
-        "categories": [
-          {
-            "id": 13034,
-            "name": "Café",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
-              "suffix": ".png"
-            }
-          },
-          {
-            "id": 13003,
-            "name": "Bar",
-            "icon": {
-              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
-              "suffix": ".png"
-            }
-          }
-        ],
-        "chains": [],
-        "distance": 1333,
-        "geocodes": {
-          "main": {
-            "latitude": 47.508186,
-            "longitude": 19.030265
-          },
-          "roof": {
-            "latitude": 47.508186,
-            "longitude": 19.030265
-          }
-        },
-        "link": "/v3/places/515bdf0de4b0b6ac13e80627",
-        "location": {
-          "address": "Csalogány u. 45",
-          "country": "HU",
-          "cross_street": "Csalogány u.",
-          "formatted_address": "Budapest, Csalogány u. 45 (Csalogány u.), 1027",
-          "locality": "Budapest",
-          "postcode": "1027",
-          "region": "Budapest"
-        },
-        "name": "Jurányi Suterene",
-        "related_places": {},
-        "timezone": "Europe/Budapest"
-      }
-    ],
-    "context": {
-      "geo_bounds": {
-        "circle": {
-          "center": {
-            "latitude": 47.49801,
-            "longitude": 19.03991
-          },
-          "radius": 14748
-        }
-      }
-    }
+	"results": [
+	  {
+		"fsq_id": "4c1d22e0624b9c740ee61204",
+		"categories": [
+		  {
+			"id": 10027,
+			"name": "Museum",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.496322,
+			"longitude": 19.039728
+		  },
+		  "roof": {
+			"latitude": 47.496322,
+			"longitude": 19.039728
+		  }
+		},
+		"name": "Hungarian National Gallery (Magyar Nemzeti Galéria)",
+		"photos": [
+		  {
+			"id": "51e55b3f498e006f0677e022",
+			"created_at": "2013-07-16T14:39:59.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/24899791_IUcLEZlRNffxT59BIaYWVzboHS9raxsBagLPFcpffNs.jpg",
+			"width": 960,
+			"height": 720
+		  },
+		  {
+			"id": "50f3f42be4b025163dd7dd09",
+			"created_at": "2013-01-14T12:03:55.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/9443713_2AFtVffFvMiC2Wk6wHsNz5J6RTuMExc8_oRJM8R6qik.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "4f4dddbde4b03933875940ba",
+			"created_at": "2012-02-29T08:11:41.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/Y6Zc22hqOorGkHhnUqvqbiZ9LbSc0qZwKkJBPUFjxLg.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "50e2df1de4b0e3d2d40ded14",
+			"created_at": "2013-01-01T13:05:33.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/3867165_8UvLTKAMCYiH71Hzn4I05-ac3xYFFVvy4PkXQbNTjcI.jpg",
+			"width": 612,
+			"height": 612,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "4db1c37afd28f0dcfa1c13d4",
+			"created_at": "2011-04-22T18:05:46.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1ZHE0K5KU1TNMHGPZCVBZJ1F1NVP5GPMTIANLFRHGEPHN5ZD",
+			"width": 720,
+			"height": 540
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4d46bd852e326ea83a21faa6",
+		"categories": [
+		  {
+			"id": 16041,
+			"name": "Plaza",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.499148,
+			"longitude": 19.035686
+		  },
+		  "roof": {
+			"latitude": 47.499148,
+			"longitude": 19.035686
+		  }
+		},
+		"name": "Dísz Tér",
+		"photos": [
+		  {
+			"id": "51c4885e498e538e5896dd75",
+			"created_at": "2013-06-21T17:07:42.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/58120326_83k5uYa9HHSESNLpUQdN5Qy9XckIZSvHkSqAMx7QcoM.jpg",
+			"width": 960,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "4faabbabe4b01a059cf4a8ed",
+			"created_at": "2012-05-09T18:47:07.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/tH0jaOCwQ2udgJc2k0qM_vQy98KSTowpAd9aBC_G5-s.jpg",
+			"width": 540,
+			"height": 540,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "4f63d14ae4b0cded5be672d5",
+			"created_at": "2012-03-16T23:48:26.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/oYKoDrsR3w1nwUEZIJ3YHvtbdlTs7l9bGI8K1d_3Fi0.jpg",
+			"width": 720,
+			"height": 540
+		  },
+		  {
+			"id": "513e2c5ce4b06af3d9842ac9",
+			"created_at": "2013-03-11T19:11:24.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/779861_qUOWaJPJEmyw4ibxB5UVqHUt_CZPONqE2auiptwX5pc.jpg",
+			"width": 960,
+			"height": 720
+		  },
+		  {
+			"id": "50841d12e4b05bd7ef910b2b",
+			"created_at": "2012-10-21T16:04:34.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/18600334_t1BbfS-SjJxmb0mE4qwotyGwm7Aybx5XZgEuHzaTn8A.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4d298eccc406721e6a537cb6",
+		"categories": [
+		  {
+			"id": 16020,
+			"name": "Historic and Protected Site",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 16046,
+			"name": "Scenic Lookout",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.502064,
+			"longitude": 19.034922
+		  },
+		  "roof": {
+			"latitude": 47.502064,
+			"longitude": 19.034922
+		  }
+		},
+		"name": "Fisherman's Bastion (Halászbástya)",
+		"photos": [
+		  {
+			"id": "516acf44e4b06a5bc2c6eda1",
+			"created_at": "2013-04-14T15:46:12.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/40518565_dg5utAZMMRsgeN-oDMOMuk42qwD3wY-CXJCiEt83nu8.jpg",
+			"width": 720,
+			"height": 960,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "51deed73498e901e04c51d10",
+			"created_at": "2013-07-11T17:37:55.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/59967824_zCpvUjjAeNavB2N6AkaGzbbqBcbLNdy1m3JhxDEMIlo.jpg",
+			"width": 720,
+			"height": 960
+		  },
+		  {
+			"id": "4fdc8932e4b018d0789a5e81",
+			"created_at": "2012-06-16T13:25:06.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/OPuWdDtG1txsd0tnsllY-G0Edqc1W1dig8xgc2V0yeo.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "51e551c4498e1df3ab0624bc",
+			"created_at": "2013-07-16T13:59:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/24899791_NTxEvB65ePJgintstwRjWLpeiOFnBKCpvyqxMmEY1OQ.jpg",
+			"width": 960,
+			"height": 720
+		  },
+		  {
+			"id": "505deb0fe4b0236a27ae1154",
+			"created_at": "2012-09-22T16:45:03.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6049135_mlSyKk02mau8hs9HcqkjMZ4A4dv5kCFteuR24GYmSWw.jpg",
+			"width": 612,
+			"height": 612,
+			"classifications": [
+			  "outdoor"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4bf42b4bff90c9b6faec5428",
+		"categories": [
+		  {
+			"id": 13025,
+			"name": "Wine Bar",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.502381,
+			"longitude": 19.039084
+		  },
+		  "roof": {
+			"latitude": 47.502381,
+			"longitude": 19.039084
+		  }
+		},
+		"name": "Mátra borozó",
+		"photos": [
+		  {
+			"id": "50a69394e4b04eb9cc39e9f3",
+			"created_at": "2012-11-16T19:27:16.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/16448953_w_w9D2k6-Fc0OGXApkLCSqbUNEwclZ6q74AFsbH1GJY.jpg",
+			"width": 537,
+			"height": 720
+		  },
+		  {
+			"id": "5f36ff73ae562379c5eda910",
+			"created_at": "2020-08-14T21:17:39.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/5537821_5BlmS5bo95y0rmHeHFHLNLla4CXyTM9C3ojsSD3gs0k.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5e0f9ba7c4e16100083d9ab7",
+			"created_at": "2020-01-03T19:53:11.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/7694437_92ry4vfr8TcjNg2fPXk0lQvwwbiR_zQD7bhvEygOdTY.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5de67868a630c60007b4b8ff",
+			"created_at": "2019-12-03T14:59:52.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/16210795_HDwTbtJO_zESchFKtYGL4wF2DIR1TEMtOlk_vShNPQw.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5bcf7ee3c0cacb002c6bd1ef",
+			"created_at": "2018-10-23T20:04:51.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/3942634_ZuL8rJIIw50MhtAt_2yyzMvrQ0PReqvIWoaTzO6g3_c.jpg",
+			"width": 4160,
+			"height": 2336
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "58669c223e9dfb1137a06579",
+		"categories": [
+		  {
+			"id": 13276,
+			"name": "Sushi Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.503196,
+			"longitude": 19.039334
+		  },
+		  "roof": {
+			"latitude": 47.503196,
+			"longitude": 19.039334
+		  }
+		},
+		"name": "Ennmann Japán Étterem",
+		"photos": [
+		  {
+			"id": "619d0044b0d8e7345ea29ec4",
+			"created_at": "2021-11-23T14:52:52.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1063826_hBadoVk1xwhn_mVz5YtRHpeKB4TQGbzB7fWwPP7qQ1s.jpg",
+			"width": 1080,
+			"height": 607
+		  },
+		  {
+			"id": "6192c4f5ac448e166cb913d6",
+			"created_at": "2021-11-15T20:37:09.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/22862420_5pytaVmrpAN6712B2yWwZgv3BuIWBFAj3tIqpuQe87Q.jpg",
+			"width": 1111,
+			"height": 652
+		  },
+		  {
+			"id": "5e162f04e92b45000815b6d1",
+			"created_at": "2020-01-08T19:35:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/147940333_cNZx1-Xcl6GHtIEHA4Z6qDDicBE2mKMmqPcT0xHD7Y4.jpg",
+			"width": 1920,
+			"height": 1440,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "5d920100c032cb00071fb8ba",
+			"created_at": "2019-09-30T13:20:00.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/42674149_-isQXdFZ80IAN29uaWEJUzzhCOY_wyIZwxU006cpafQ.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5d920100a67bc000080bc3ce",
+			"created_at": "2019-09-30T13:20:00.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/42674149_d_0Ktk1p_RFKGMlybq3xBNLSEwL96dRmeeMFa8_4TKE.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "556cb9ad498e98bd14516f61",
+		"categories": [
+		  {
+			"id": 13197,
+			"name": "Hungarian Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13310,
+			"name": "Modern European Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "Vibrant and inspiring, yet casual and affordable, KOLLÁZS - Brasserie & Bar is a contemporary European brasserie in Budapest.",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.499769,
+			"longitude": 19.047874
+		  },
+		  "roof": {
+			"latitude": 47.499769,
+			"longitude": 19.047874
+		  }
+		},
+		"name": "KOLLÁZS Brasserie & Bar",
+		"photos": [
+		  {
+			"id": "62383a11299dfe1b00eb3d57",
+			"created_at": "2022-03-21T08:40:49.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/22763879_iaBSY5gjxRshoFv61U8HGqGZi0m0-ovvjswElCXB7Wg.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "61ee5a2fd6acc324e4aea953",
+			"created_at": "2022-01-24T07:50:07.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/22763879_8_C5pTx4ofAT7Lr5gouRAL8LXvJgh5QyDXXkyvdJlH0.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "61d43a7fbeb663009acb4f03",
+			"created_at": "2022-01-04T12:15:59.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1377891846_JN5Cw4FE4cajjKgbQnS8Tbp-EpFgC7_Vvl5P5CRA_Ic.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61ccb1f77a14b151638a520a",
+			"created_at": "2021-12-29T19:07:35.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/151307384_7tpA0YEdBx2RUz-uIipepyjMNvb7fy6BRfR7cFU_GTg.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61ccb1f7f77e953d57471bf9",
+			"created_at": "2021-12-29T19:07:35.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/151307384_JdcXKDj4PSbaJ-vMvAFI3jHFy339QzmJ69kH5OPy0v8.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4dc81ed218387d1bd57fbad3",
+		"categories": [
+		  {
+			"id": 16053,
+			"name": "Waterfront",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.501582,
+			"longitude": 19.045244
+		  }
+		},
+		"name": "Duna-part",
+		"photos": [
+		  {
+			"id": "5012f644e4b06fc7ce86ecb9",
+			"created_at": "2012-07-27T20:12:52.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/uAeAd8ZkuIm9qB4AisynIYfU5orANV6xYN8D-Y5Ik74.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "4fcf0e54e4b046dae1cbc0d5",
+			"created_at": "2012-06-06T08:01:24.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/i_d67q_U5wFEmnRDzg-no7DATWlVwagQcrU09sBohOc.jpg",
+			"width": 612,
+			"height": 612
+		  },
+		  {
+			"id": "5177ec1b498ec47addab7712",
+			"created_at": "2013-04-24T14:28:43.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/53278813_v1-A7BjF8DRDYhrd4n5YDp2iYDSi5Cz0m_C3Fa8BPag.jpg",
+			"width": 960,
+			"height": 960,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "510a7232e4b0c898021aa5b1",
+			"created_at": "2013-01-31T13:31:30.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/4181588_WwsbSGbjtox9Tk9oTmFI_o4YV6ScooFPGG7Z8RT_NSg.jpg",
+			"width": 612,
+			"height": 612
+		  },
+		  {
+			"id": "5061f0f7e4b03f519a5356a0",
+			"created_at": "2012-09-25T17:59:19.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/840188_fIupk7WPVsNAarC8u4TpOPiYw0dk_43z7Sps2BA4iq0.jpg",
+			"width": 720,
+			"height": 541,
+			"classifications": [
+			  "outdoor"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "5059c340e4b082424ecc9822",
+		"categories": [
+		  {
+			"id": 16046,
+			"name": "Scenic Lookout",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.501278,
+			"longitude": 19.032373
+		  },
+		  "roof": {
+			"latitude": 47.501278,
+			"longitude": 19.032373
+		  }
+		},
+		"name": "Várnegyed",
+		"photos": [
+		  {
+			"id": "624d8d6f83a708371c2140b2",
+			"created_at": "2022-04-06T12:54:07.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/23650192_7H_HntxL_kexagKKXf0zvMNYlm0gnLJRtRSnegyuPGE.jpg",
+			"width": 1440,
+			"height": 1791
+		  },
+		  {
+			"id": "61b5fb78ad5bab2454b4b10d",
+			"created_at": "2021-12-12T13:39:04.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/59240145_MakBZpo7wBkrCnCX8Ud14zt1sKIVsUgZMb-hBVybn88.jpg",
+			"width": 1080,
+			"height": 810
+		  },
+		  {
+			"id": "61a4f1593c842e2c8e09070c",
+			"created_at": "2021-11-29T15:27:21.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/91726803_3-NVLdIJaYM2pP4EP8UAoxJjceTUVT4InBZwCelqGDM.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "61328a1d1d51fe4849a461ed",
+			"created_at": "2021-09-03T20:48:29.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/79245632_WvW0NRo48M9ubG5RdC8v5BfnLELs1yYJZB5XFbBU8D4.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "611812a69397cf75661c57a8",
+			"created_at": "2021-08-14T18:59:50.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/11025216_YsN7_t3JUOnFmBtSRuHu2DcfTWlC20_kYk0XUyVHUnE.jpg",
+			"width": 1080,
+			"height": 1666
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "5245964611d2262a9c14c499",
+		"categories": [
+		  {
+			"id": 13027,
+			"name": "Bistro",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13040,
+			"name": "Dessert Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13197,
+			"name": "Hungarian Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "Egy nyitott nappali - tele finomsággal",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.492255,
+			"longitude": 19.044202
+		  },
+		  "roof": {
+			"latitude": 47.492255,
+			"longitude": 19.044202
+		  }
+		},
+		"name": "Asztalka",
+		"photos": [
+		  {
+			"id": "5443b0b3498ec008e822f64f",
+			"created_at": "2014-10-19T12:38:11.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/13346483_EWUnUd8J5k78hCnFEsGrYSVjiTf4tJUrO_neA6LN8T4.jpg",
+			"width": 720,
+			"height": 960,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "529dcf6311d2ae93bcb6c71e",
+			"created_at": "2013-12-03T12:32:35.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/11917618_XHwVnheASu9xoKX6u_jjNihQBcpGquolgElncyAHebo.jpg",
+			"width": 960,
+			"height": 540,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "531852db498e37fdbcb42770",
+			"created_at": "2014-03-06T10:50:03.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/41663691_UJYwoAMgFKvqwBH1x2KhWu4UK3yU3llBxd7QNZdEGhQ.jpg",
+			"width": 960,
+			"height": 720,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "538ee62211d2cd8c099db020",
+			"created_at": "2014-06-04T09:25:54.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/19750082_Lu5zqzeJvdn-ls8MCXIp8wPjEkBf7KDTEZdDy5cVHe8.png",
+			"width": 954,
+			"height": 634,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "5380afe7498e508526b49780",
+			"created_at": "2014-05-24T14:42:47.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/4298382_hB7XLa8ybbMPZ_3eZPoRs1eD_yE-zKL_DOczY75duz0.jpg",
+			"width": 720,
+			"height": 960,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4c72c7ed4bc4236a4330cc7a",
+		"categories": [
+		  {
+			"id": 13197,
+			"name": "Hungarian Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.502442,
+			"longitude": 19.034778
+		  },
+		  "roof": {
+			"latitude": 47.502442,
+			"longitude": 19.034778
+		  }
+		},
+		"name": "Halászbástya Étterem",
+		"photos": [
+		  {
+			"id": "516f924ee4b0de55f32b2abf",
+			"created_at": "2013-04-18T06:27:26.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/29252291_qPE1pLq8-NqurXdHULU_H7yRYBcdNayclN0FNt0sg-o.jpg",
+			"width": 1920,
+			"height": 1440,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "5182cf7b498e5d75ed29f754",
+			"created_at": "2013-05-02T20:41:31.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/21994180_9ITHDMOozWSN3hjgyVO6ZnujZxxlha3sqlV4YjnByck.jpg",
+			"width": 1434,
+			"height": 1918,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "50ba289ee4b0802eb9062068",
+			"created_at": "2012-12-01T15:56:14.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/658415_WBJ0hW6nNR_DTKkj84z7Jv8pRa_zZUOGX-nDwBlBn9k.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "4f3aa60be4b0e724f173de73",
+			"created_at": "2012-02-14T18:20:59.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/5ClLLvvqZLdeSd7Ap0YbBjOULvj_GH_uBkUZQ869POU.jpg",
+			"width": 540,
+			"height": 720
+		  },
+		  {
+			"id": "50198c81e4b0092a22bed989",
+			"created_at": "2012-08-01T20:07:29.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/Hih0baOWyzml7PRIVpKCNIWYOzJo8K2ucYgHs_pQ7wQ.jpg",
+			"width": 537,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4c51a1ab3940be9ae8852e09",
+		"categories": [
+		  {
+			"id": 10030,
+			"name": "History Museum",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.500457,
+			"longitude": 19.031633
+		  },
+		  "roof": {
+			"latitude": 47.500457,
+			"longitude": 19.031633
+		  }
+		},
+		"name": "Hospital in the Rock (Sziklakórház és Atombunker)",
+		"photos": [
+		  {
+			"id": "50803e85e4b06d38190209a3",
+			"created_at": "2012-10-18T17:38:13.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/26586251_KE_H1iXN7KJDrmAvqtHp0v_VVqtJ_0Iy45Ezz_UpGCU.jpg",
+			"width": 720,
+			"height": 406,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "507aafdbe4b0199a3416c0f8",
+			"created_at": "2012-10-14T12:28:11.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/30624414_CQMv5rqeZ0TUvsmF6MH2DWuwVDEaPKsfXRhyLsSaBEU.jpg",
+			"width": 612,
+			"height": 612
+		  },
+		  {
+			"id": "504fb20fe4b06e593805d8d1",
+			"created_at": "2012-09-11T21:50:07.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/zXq_Jq3LWRqx9gJ7EADsGN1KZtExZTR_lCAlRT5AtG4.jpg",
+			"width": 612,
+			"height": 612
+		  },
+		  {
+			"id": "512c9daae4b0a8adf4ae8546",
+			"created_at": "2013-02-26T11:34:02.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/754529_tSo49pf9jr-XiDuftgHxJyq1Rhla1wp9jqhhTCaRtgk.jpg",
+			"width": 960,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "4eaef2c20aafcac7e4e36e99",
+			"created_at": "2011-10-31T19:10:58.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/LQ3HYSCKSVUGG11Q2BEUMXUT52WUZYYH2HAZ2C5O1TD3DPEL.jpg",
+			"width": 720,
+			"height": 537
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4cd9774a51fc8cfa466eef5d",
+		"categories": [
+		  {
+			"id": 10047,
+			"name": "Public Art",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.503843,
+			"longitude": 19.044917
+		  }
+		},
+		"name": "Shoes on the Danube Bank (Cipők a Duna-parton)",
+		"photos": [
+		  {
+			"id": "4fae4375e4b0604807d165b7",
+			"created_at": "2012-05-12T11:03:17.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/tPYZpZDmihugxa9UTI2_TjcEufXBfAuOCoWUsJBOnf8.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "50e18397e4b0f6f2d577d42a",
+			"created_at": "2012-12-31T12:22:47.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/3867165_4Y9U-s7rvHNBUGPNyTWKR0krOBFH5ITBJq_x_VKXV_o.jpg",
+			"width": 612,
+			"height": 612
+		  },
+		  {
+			"id": "511fd5ece4b0b2c48e342988",
+			"created_at": "2013-02-16T18:54:36.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6923740_KLfPMrdO1rHcg83NSsuBkWtinz2P8JqOb2PBTaB8tTg.jpg",
+			"width": 612,
+			"height": 612,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "50029923e4b009517856558a",
+			"created_at": "2012-07-15T10:19:15.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/Ky3AW9QlMOFG31XU2EpiUB7fpyKwqpWQDAyIc2F9TT0.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "55196f05498e9bb3fdab49c6",
+			"created_at": "2015-03-30T15:43:01.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/9457754_Ic3I66jKAd4agKVDkmeLPZeRInV1OyUIFgAY-o3-C90.jpg",
+			"width": 640,
+			"height": 640
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4f44cf57e4b093577fc6710f",
+		"categories": [
+		  {
+			"id": 13064,
+			"name": "Pizzeria",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13236,
+			"name": "Italian Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "Minden ami olasz! - egy jó kávé - szendvicsek - tésztakülönlegességek - jó borok",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.501723,
+			"longitude": 19.048279
+		  },
+		  "roof": {
+			"latitude": 47.501723,
+			"longitude": 19.048279
+		  }
+		},
+		"name": "Trattoria Pomo D'Oro",
+		"photos": [
+		  {
+			"id": "503d21d8e4b0daf257df4acf",
+			"created_at": "2012-08-28T19:54:00.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/MzoebSMJw4w5Rrzb6_m4b3Uonr9uftOQ3do8mT2GbfQ.jpg",
+			"width": 720,
+			"height": 537
+		  },
+		  {
+			"id": "50b63efde4b055fd7ec23d7c",
+			"created_at": "2012-11-28T16:42:37.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/18343270__HhzHGszEB1D7is57eQllM4xUXwwgB7K0A3mGQE7tqg.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "518fa6b5498e50c45e12b322",
+			"created_at": "2013-05-12T14:27:01.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/55778025_IuLkoMHjXG0KFyWaPVsP0ctUHWQRpuXPjecCAFw0nw0.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "518fddb9498e31e533e563b0",
+			"created_at": "2013-05-12T18:21:45.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1046981_kjHaqTi15M13GtatD_zQj9Oz78IeUGb5iBL8Ssh5VrA.jpg",
+			"width": 960,
+			"height": 720
+		  },
+		  {
+			"id": "50215852e4b09ef874691c52",
+			"created_at": "2012-08-07T18:02:58.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/pMLynamIg36NrceLuqG7nBX479uC9K_qafK7y-kzhWo.jpg",
+			"width": 720,
+			"height": 537
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "53c6a149498ecf3134ca4d69",
+		"categories": [
+		  {
+			"id": 13025,
+			"name": "Wine Bar",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.502105,
+			"longitude": 19.048526
+		  },
+		  "roof": {
+			"latitude": 47.502105,
+			"longitude": 19.048526
+		  }
+		},
+		"name": "DOC Vino Bar",
+		"photos": [
+		  {
+			"id": "5573514f498e05b0cbb0dc6a",
+			"created_at": "2015-06-06T20:00:15.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/13346483_uE84_D_vIznaCHQ6_dEGHIYfQQ4I3m9pBDMUtP6wQ7o.jpg",
+			"width": 1440,
+			"height": 1440
+		  },
+		  {
+			"id": "55731120498e430ce5a79d85",
+			"created_at": "2015-06-06T15:26:24.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/13346483_Hv9jP60YfRib7WDgWPMDPfOQ5dorqzoEV0HBO28vHMw.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "61f47cf5eecfd64af0c257fa",
+			"created_at": "2022-01-28T23:32:05.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/8322707_Kdtxsi8Q0Gdx1O8mxy-wuiAKOdtajfevXRoOYyO-XTI.jpg",
+			"width": 1425,
+			"height": 1900
+		  },
+		  {
+			"id": "61f46b2b267b550d27f25346",
+			"created_at": "2022-01-28T22:16:11.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/8322707_elAohR7WQz4XU26-R6Bu2TM_HxkiqumN4r-9I3RdWBA.jpg",
+			"width": 1425,
+			"height": 1900
+		  },
+		  {
+			"id": "5ed02a5bb2e84300073ae865",
+			"created_at": "2020-05-28T21:17:15.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/7349605_u8AhUjE6MZozkuGmKgMkaVv_RoaCX1yOZDRTgy8MtY8.jpg",
+			"width": 1440,
+			"height": 1470
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "506ee78fe4b0f919387f5d1b",
+		"categories": [
+		  {
+			"id": 13035,
+			"name": "Coffee Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13036,
+			"name": "Tea Room",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "Kézműves kávézó. Quality oriented coffee shop.",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.501959,
+			"longitude": 19.050042
+		  },
+		  "roof": {
+			"latitude": 47.501959,
+			"longitude": 19.050042
+		  }
+		},
+		"name": "Espresso Embassy",
+		"photos": [
+		  {
+			"id": "511df71ee4b081fe4fc06bab",
+			"created_at": "2013-02-15T08:51:42.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/9190412_P2xe8XI7JFGhPjx0tCNKLJACLVBladdeQsEaosa26Hc.jpg",
+			"width": 641,
+			"height": 481,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "51d827b9498edc4883e4c673",
+			"created_at": "2013-07-06T14:20:41.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/912502_9XuezgoZLMovHyJblwT3puuA7CpLVJ08e1UVqW5pb6U.jpg",
+			"width": 720,
+			"height": 960,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "51f14e68498e5c3c20a4a937",
+			"created_at": "2013-07-25T16:12:24.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/55378567_gItlyKhCKQdsnS4QlZIIu2g6XjbMKWefGafMmvZXmt8.jpg",
+			"width": 720,
+			"height": 960
+		  },
+		  {
+			"id": "51d6ecc2498e6c2cc7d05772",
+			"created_at": "2013-07-05T15:56:50.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/40416994_GNr52NVkO7UD0ya84ztkh8n63Wh82DTm_llhI9X2B-0.jpg",
+			"width": 640,
+			"height": 480
+		  },
+		  {
+			"id": "515d44f0e4b0a124acabdc31",
+			"created_at": "2013-04-04T09:16:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/11578131_GveK8rw8kunT4hZLg2oL4iplrDbSwWgFAj-8VsDmWwo.jpg",
+			"width": 717,
+			"height": 959,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "5344e72f498e4a0cb75e5c82",
+		"categories": [
+		  {
+			"id": 13000,
+			"name": "Dining and Drinking",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.49615,
+			"longitude": 19.029012
+		  },
+		  "roof": {
+			"latitude": 47.49615,
+			"longitude": 19.029012
+		  }
+		},
+		"name": "Rojt és Bojt kávéskuckó",
+		"photos": [
+		  {
+			"id": "572c469d498ec5f0348ba066",
+			"created_at": "2016-05-06T07:24:13.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1000230_VFaGD52kykUMrmm4hrg_mmTxZVrgqesU5yv6b_5uPY4.jpg",
+			"width": 1080,
+			"height": 1080
+		  },
+		  {
+			"id": "56a2c820498e8d364ab59b25",
+			"created_at": "2016-01-23T00:24:00.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/24054456_8HctK9BfO2n0QSoPdAvELMYT24x2R06ZH-1IVlJcapI.jpg",
+			"width": 1440,
+			"height": 1440
+		  },
+		  {
+			"id": "61de950c589c5063e6e37d6a",
+			"created_at": "2022-01-12T08:45:00.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/57682104_V8HR5k6gPK9K5uPO2iLlOe4whIWhP1wr43bIy1bF_ek.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5d96f2a066859d0008ebe410",
+			"created_at": "2019-10-04T07:20:00.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/58303850_xl-SBxMZwHXbBUczYrdTF-bp5ctkh8IyKCx7qiBojyQ.jpg",
+			"width": 1248,
+			"height": 1920
+		  },
+		  {
+			"id": "5d1f711825359200238a15f0",
+			"created_at": "2019-07-05T15:47:36.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/2734811_dhstotG8Db-_VmcVyGVTFwK3pRP0DlFrU0UAv_Ns1fg.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "5496f3b4498e84ed82fc544f",
+		"categories": [
+		  {
+			"id": 13002,
+			"name": "Bakery",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13042,
+			"name": "Cupcake Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cupcakes_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "Hi! I'm Dodo and I'm quite crazy about macarons. Once I decided to make the best macarons in the world... Come and try where I am now :)",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.50009,
+			"longitude": 19.052427
+		  },
+		  "roof": {
+			"latitude": 47.50009,
+			"longitude": 19.052427
+		  }
+		},
+		"name": "Chez Dodo macaron manufaktúra",
+		"photos": [
+		  {
+			"id": "56ace870498efe2036058b4a",
+			"created_at": "2016-01-30T16:44:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/24054456_IK4KhdAifSrQuBpfYck0edklx_E1-FkrFYFQyyDPCnU.jpg",
+			"width": 1440,
+			"height": 1440,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "56face3f498e17e66c52bf43",
+			"created_at": "2016-03-29T18:49:35.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/95404880_cqJC18MvZc3jKRb0xU7otmYxpdNSgi0l890JZv4yY5c.jpg",
+			"width": 1440,
+			"height": 1681,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "62264080c58f806cea9e1c5a",
+			"created_at": "2022-03-07T17:27:28.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/18828494_XhhmxLbHSG2B9M9DiUeaweueGBNvBdoA5--U1-_Jq4g.jpg",
+			"width": 1079,
+			"height": 1920
+		  },
+		  {
+			"id": "61f18f3dc7b5094886ce97f5",
+			"created_at": "2022-01-26T18:13:17.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/24336686_AEcn4ivYXoLrMMH6xHWROFw6HgRoTHhEcPzS1QOeWtg.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4c3e0b7fdb3b1b8d55dd6495",
+		"categories": [
+		  {
+			"id": 13148,
+			"name": "French Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13236,
+			"name": "Italian Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.494391,
+			"longitude": 19.05136
+		  },
+		  "roof": {
+			"latitude": 47.494391,
+			"longitude": 19.05136
+		  }
+		},
+		"name": "Comme Chez Soi",
+		"photos": [
+		  {
+			"id": "4efe14bcbe7bbcd4f1e94e21",
+			"created_at": "2011-12-30T19:45:00.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/TETA1YGJYY4WWPUG5G1IBMVCS3WOIQNRFRQ03DV2Z0MNCX2E.jpg",
+			"width": 720,
+			"height": 540
+		  },
+		  {
+			"id": "501bb789e4b03e6bfbb657ae",
+			"created_at": "2012-08-03T11:35:37.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/jsQ6Q2pCsUkC13ekal3X7gZ3oQxfmeYmmFYRun9e30M.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "62080f228b83722cb0f5cd14",
+			"created_at": "2022-02-12T19:48:50.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1383468873_v1gODtIsvtxNlcpQVRP8mzEoc45KXOfMDqoS4ZasxT0.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61d46c41080fc2113fdb1301",
+			"created_at": "2022-01-04T15:48:17.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/22321786_Y8Ppc9IeZVg8GGmTdJ6IaWabqdWnjYQ2TzD3B9SdXTU.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "61abe64a9ab3f3549e39c6f8",
+			"created_at": "2021-12-04T22:06:02.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/5107700_me6JcbZYNJrVRRyGO6wyxaBVteriiLsjK3CKzLj6hwE.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4d63eef0625f6dcb3d25715e",
+		"categories": [
+		  {
+			"id": 17018,
+			"name": "Bookstore",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.500889,
+			"longitude": 19.051209
+		  },
+		  "roof": {
+			"latitude": 47.500889,
+			"longitude": 19.051209
+		  }
+		},
+		"name": "Bestsellers Kft",
+		"photos": [
+		  {
+			"id": "615842a02a4abc0ba481e1cd",
+			"created_at": "2021-10-02T11:29:36.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/19793679_5ia1izz7QyedlyqJVXPSfExM26_lxmAGajrouQ0AInQ.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5f57866d56eb186f6eb0bd2f",
+			"created_at": "2020-09-08T13:26:05.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/14059494_Ym1A42tN7SbZ-8C_jLtuKdqvr1UpNAsJKpPSp9eWcb4.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "5d502025bdb79a000867f6d9",
+			"created_at": "2019-08-11T14:03:17.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/62116447_KJ8CnUhePJoMTJIZG-4YMSkULEba5tnq7MHsAFeX-IU.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "5ab641ebe55d8b47cf604ea0",
+			"created_at": "2018-03-24T12:17:47.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/58999608_JLz0BUqo5mQukoe5uDHEz4vaMsQfDOjRd2qjur4wniM.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "5a3929960a08ab5b2dbb76d7",
+			"created_at": "2017-12-19T15:00:38.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/143002244_DWh2nbxKVg2Wc14ZteeqaNXmXUbOtqTXFKK0Dw-wBm8.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "52583f8511d20dd53ee895cb",
+		"categories": [
+		  {
+			"id": 10000,
+			"name": "Arts and Entertainment",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13009,
+			"name": "Cocktail Bar",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13013,
+			"name": "Hotel Bar",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.497328,
+			"longitude": 19.052457
+		  },
+		  "roof": {
+			"latitude": 47.497328,
+			"longitude": 19.052457
+		  }
+		},
+		"name": "Blue Fox The Bar",
+		"photos": [
+		  {
+			"id": "530a490f498eb04a1eb3f56a",
+			"created_at": "2014-02-23T19:16:31.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/7248746_gkT69FYjK_ZOwB93pFW5ak2pI8XFJErpKyhne3L3YV4.jpg",
+			"width": 720,
+			"height": 960,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "52a39d2b11d26e7b5050f593",
+			"created_at": "2013-12-07T22:11:55.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/10536281_L010yOKpxmJucs2M-JNm00jjRHyhr5PIRjD2VBVI_eA.jpg",
+			"width": 640,
+			"height": 640
+		  },
+		  {
+			"id": "6250aa0b9b63ea23e610bd7d",
+			"created_at": "2022-04-08T21:32:59.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/151735722_JiubXvbCQBHG5XKLnZLrkUTj3JQ7T80LwCn9GD3KVVo.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61a26792ed793c6145de9c33",
+			"created_at": "2021-11-27T17:14:58.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/3441750_aw60oZpG-QHUVWqnVI4636iWn8cYu022yVq5IBTg3nQ.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5e0d16412f4f15000810d91c",
+			"created_at": "2020-01-01T21:59:29.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/49687352_0NYvmY6oamVulfOnBL5w2ORNn3PseP7iIN2FgUE545A.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4d6ea7152427224ba39ad04d",
+		"categories": [
+		  {
+			"id": 13139,
+			"name": "Eastern European Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13197,
+			"name": "Hungarian Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.499495,
+			"longitude": 19.05257
+		  },
+		  "roof": {
+			"latitude": 47.499495,
+			"longitude": 19.05257
+		  }
+		},
+		"name": "Borkonyha",
+		"photos": [
+		  {
+			"id": "50a54ce4e4b0aec9aca9ad00",
+			"created_at": "2012-11-15T20:13:24.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/16138413_3E7mqcLQLpJJCcaf5JXfTcOtuX8l-QNUWFpcIEzEB9k.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "50b7b875e4b03bcbc9ccd8ec",
+			"created_at": "2012-11-29T19:33:09.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6037234_xUArzGnMQFYXWrbcxTQq5JmXdNkCljXGBI63IF5zP6Q.jpg",
+			"width": 720,
+			"height": 540
+		  },
+		  {
+			"id": "511f95a2e4b0b14e231c2f56",
+			"created_at": "2013-02-16T14:20:18.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/863878_O4jnLrUWmTtBAZxfgXVgc0KObJXQx1j_F9cGGbkb8kQ.jpg",
+			"width": 717,
+			"height": 959,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "502cfcaae4b05f26ae5ea2a1",
+			"created_at": "2012-08-16T13:59:06.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/RzGPblgCbVpMJl0J6vloErOus4aYQVU5rsURuGDzd0E.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "4eabf9f029c2152debf607b5",
+			"created_at": "2011-10-29T13:04:48.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/MKNI3Y3YAKCI25XYERQUO5W10G4Y0SKZTBGI0FWGJ2YK1GEV.jpg",
+			"width": 720,
+			"height": 537
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4c14feca77cea593c765d160",
+		"categories": [
+		  {
+			"id": 13002,
+			"name": "Bakery",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13046,
+			"name": "Ice Cream Parlor",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "A különleges fagylaltok mellett, a téli szezonban egyedi csokoládé desszerteket készítünk a szemetek láttára. Ahogy a fagylaltot, a téli repertoárt is kíváló alapanyagokból, rendhagyó formában kínáljuk. Van baristánk, nem is akármilyen! Forró csokink bátran nevezhető a város legjobbikának.",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.500313,
+			"longitude": 19.053016
+		  },
+		  "roof": {
+			"latitude": 47.500313,
+			"longitude": 19.053016
+		  }
+		},
+		"name": "Gelarto Rosa",
+		"photos": [
+		  {
+			"id": "505595c2e4b04495bd58e162",
+			"created_at": "2012-09-16T09:02:58.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/3337552_2shF5Ahjs0f5CCH5rCaqR0S0xBsLQuAj4GEP6TJiaxo.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "4ff1b92fe4b0d01fb34dee91",
+			"created_at": "2012-07-02T15:07:27.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/V5hewPoi9oUljOeQprdiEg-bdDUwM_u4bMHwSBfizWg.jpg",
+			"width": 537,
+			"height": 720,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "50fa7a16e4b0a8cc9529548e",
+			"created_at": "2013-01-19T10:48:54.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/14985711_1w86aJX6zLQwAqQm3HupsN429DoAE9Q9cqudp74pRTI.jpg",
+			"width": 720,
+			"height": 960,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "51e58d43498ed9e34a967c54",
+			"created_at": "2013-07-16T18:13:23.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/5218904_juak03hiAIkpgtjdKQvI8wktyO26tpBSxU3OdLuxlg0.jpg",
+			"width": 720,
+			"height": 960
+		  },
+		  {
+			"id": "51655688e4b04adacad6dd4a",
+			"created_at": "2013-04-10T12:09:44.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/28956014_IJ4L_urPoBJcEUWSRVlyd4OWXCK7QVyQQhLTaBevAaI.jpg",
+			"width": 720,
+			"height": 720
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "5da9ebb1a4f2c90007347eec",
+		"categories": [
+		  {
+			"id": 13379,
+			"name": "Vietnamese Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vietnamese_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.495379,
+			"longitude": 19.052541
+		  },
+		  "roof": {
+			"latitude": 47.495379,
+			"longitude": 19.052541
+		  }
+		},
+		"name": "Oriental Soup House - Szervita tér Budapest",
+		"photos": [
+		  {
+			"id": "6234cb4327611611256033c4",
+			"created_at": "2022-03-18T18:11:15.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/423859133_PWyvcwOENemlu40OMkOFpjP9Z23qemVsPjCWWOEG0RI.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "622ca0c24a352a417d5ebb2c",
+			"created_at": "2022-03-12T13:31:46.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/27821043_v-3FcKH22TRQIoO25pXME21sCHPaPElo-4otkYngfIg.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "61cdcf8562785067f2a21aa0",
+			"created_at": "2021-12-30T15:25:57.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/151307384_epjx5KpLyQ-RbW3m_GRw7O0dQCCVhlmJ1Vrhbw2GVzA.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61cdcf84d0a7c7514b5a158d",
+			"created_at": "2021-12-30T15:25:56.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/151307384_j2p8W-GC_jredkJ3wGEyBjiYDkMrHmp9sfvZiU_7UH4.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61cdcf6fbaab593a5c15c825",
+			"created_at": "2021-12-30T15:25:35.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/151307384_epjx5KpLyQ-RbW3m_GRw7O0dQCCVhlmJ1Vrhbw2GVzA.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4d1ca49b2dd937040c514db5",
+		"categories": [
+		  {
+			"id": 16047,
+			"name": "Sculpture Garden",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 16032,
+			"name": "Park",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.489492,
+			"longitude": 19.039193
+		  }
+		},
+		"name": "Filozófusok kertje",
+		"photos": [
+		  {
+			"id": "4d9089cb9bb328fda8d99c54",
+			"created_at": "2011-03-28T13:14:51.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/FFJO2IXTAW3S5ZWWZBMMDHOTI2CQAAXLDREFTPIQ03VU3C5B.jpg",
+			"width": 720,
+			"height": 537
+		  },
+		  {
+			"id": "4eb65cb27ee5024d7f695fdf",
+			"created_at": "2011-11-06T10:08:50.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/LVEF5PJX1ZZRSSVVMPUYHT1WO1UXGPHFGUAERXR1PSE01PXW.jpg",
+			"width": 720,
+			"height": 540
+		  },
+		  {
+			"id": "4e356e5552b17fb1c60787d8",
+			"created_at": "2011-07-31T15:01:41.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/3NRSPOGO3OTW1HNOGGHHN0EZQLMGDXS30IO0TN0HDUABQPCK.jpg",
+			"width": 720,
+			"height": 480
+		  },
+		  {
+			"id": "4fd10b9ce4b08908d29fcd2a",
+			"created_at": "2012-06-07T20:14:20.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/LM67utkCizafwjiVY-k9NeFzAKe3mc8sNjC6K4eQCs8.jpg",
+			"width": 720,
+			"height": 406
+		  },
+		  {
+			"id": "5176a468e4b0e835564be2a6",
+			"created_at": "2013-04-23T15:10:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/7270354_OrbOL2KFBV2cphPB2fejazQTkoVIh4_O2xex8NbCui8.jpg",
+			"width": 1440,
+			"height": 1440
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4e194f68d1648b83483b3984",
+		"categories": [
+		  {
+			"id": 16026,
+			"name": "Monument",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.489616,
+			"longitude": 19.045603
+		  }
+		},
+		"name": "Szent Gellért Szobor",
+		"photos": [
+		  {
+			"id": "6239a952f3ad546adb3b0a76",
+			"created_at": "2022-03-22T10:47:46.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/59240145_UU61psWWUDUAbAYTPI-1QOYk0GYOjrhJK7GP95ld-OE.jpg",
+			"width": 1080,
+			"height": 1080
+		  },
+		  {
+			"id": "61e6da58b699035309f67cb0",
+			"created_at": "2022-01-18T15:18:48.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/59240145_Pu_rE7kjNNnZaM4OaY1RHdEC9W2tGF1PqxhER4_XNK8.jpg",
+			"width": 1080,
+			"height": 1079
+		  },
+		  {
+			"id": "61e448ba1453152a2eff1413",
+			"created_at": "2022-01-16T16:32:58.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/11011504_FU2ZbG62AeX4SjFJCllVP510SCdDkKm2aMimaGlLvhI.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61486b9da5fd9e3ba0f586d2",
+			"created_at": "2021-09-20T11:08:13.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/18027675_d10pKdeguvp9fTyxjudCqg-tZdtigiQE_3-fDWlmMC0.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "60d83eca40460f38cebe71b0",
+			"created_at": "2021-06-27T09:03:06.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/87624171_wrmjkIo4-Dj-BDFY7h7UqkOi0aQtfkQ_fihuWnFILT0.jpg",
+			"width": 1920,
+			"height": 1440
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4ceffd7bd7268cfa90c4d24e",
+		"categories": [
+		  {
+			"id": 17080,
+			"name": "Wine Store",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.505574,
+			"longitude": 19.048843
+		  },
+		  "roof": {
+			"latitude": 47.505574,
+			"longitude": 19.048843
+		  }
+		},
+		"name": "Bortársaság",
+		"photos": [
+		  {
+			"id": "5138e25be4b08e91131feabd",
+			"created_at": "2013-03-07T18:54:19.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/37494120_fKhpwyrGG3LiODwFVyo7Tv3NILBL1JgtfObXz0bOWck.jpg",
+			"width": 720,
+			"height": 720,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "61a52a61198e1967ca2ab66f",
+			"created_at": "2021-11-29T19:30:41.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/68493434_T8U8Qs5FpR9ho_NDGq4NSjoIMkC1HFwxLn_z71FXHEA.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "5f2c3b498101276da0fb534d",
+			"created_at": "2020-08-06T17:18:01.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/11586369_NnftpCaizKGfNsENU4pTThq60PiPhzIBB_ZuoyUGwH8.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5e6903ec964a7d0008265716",
+			"created_at": "2020-03-11T15:29:48.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/913829_aohvsdhHse6NfaczDD0psa40n9TN0aUnujGb_dz-QFE.jpg",
+			"width": 1440,
+			"height": 1800
+		  },
+		  {
+			"id": "5d8d1366fdbdcb0007654143",
+			"created_at": "2019-09-26T19:37:10.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/89851310_fJ8VwAUayNuonuIalqlr-fFWJ2GxOcXqY-srOG0H4w4.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "5cf3f516b3d8e2002c86367f",
+		"categories": [
+		  {
+			"id": 17069,
+			"name": "Grocery Store / Supermarket",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.491379,
+			"longitude": 19.031084
+		  }
+		},
+		"name": "Aldi",
+		"photos": [
+		  {
+			"id": "5fec15390f3c3b08b8945384",
+			"created_at": "2020-12-30T05:50:49.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/929087_wIN6jYzbGylww4a7JnMf0hxk8e77dx0sQ1n99TU7EGI.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "5d9f35f7102f0d0008bcc4a6",
+			"created_at": "2019-10-10T13:45:27.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/2379822_vllP5EBMAvUn2cAIWPEHmJ11QXcfvOXsZPnOkRoC1JA.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "6249710de02d4011265b9ab0",
+			"created_at": "2022-04-03T10:03:57.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/59240145_AY6-fudw9Dj9dYYhyb7iReEPDXF83ljqQcKnUe4-6LI.jpg",
+			"width": 1080,
+			"height": 1079
+		  },
+		  {
+			"id": "6238d85566307f2d0f680010",
+			"created_at": "2022-03-21T19:56:05.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/929087_r9AF3zFkSOD1-6RVcov5UTEmuH2dEDHl0Pnov_BhHXg.jpg",
+			"width": 1080,
+			"height": 607
+		  },
+		  {
+			"id": "6236ce9ed1c30410e8923467",
+			"created_at": "2022-03-20T06:50:06.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/929087_DUmWTQhi8RupsIuZF8cy8lCt4zCLOFrpjFdFqTVhVQk.jpg",
+			"width": 1080,
+			"height": 607
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "53aeadfc498e59958f246fac",
+		"categories": [
+		  {
+			"id": 16046,
+			"name": "Scenic Lookout",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.500786,
+			"longitude": 19.054021
+		  }
+		},
+		"name": "St. Stephen's Basilica Rooftop (Szent István Bazilika tetőtéri)",
+		"photos": [
+		  {
+			"id": "57330b32498e880bb1979fbf",
+			"created_at": "2016-05-11T10:36:34.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/67430868_2LqEsmyAy0Df8OZYzMzxtlOoL_oJIoQ0zUMG6Xuz768.jpg",
+			"width": 960,
+			"height": 711,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "5698e1ce498ec5d1e40332d6",
+			"created_at": "2016-01-15T12:10:54.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/28816765_C-bpDXhJvqWSncKzP0wRTEj46fF5OY8otUQsSvo80tA.jpg",
+			"width": 1920,
+			"height": 1440,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "572b8b4dcd1000c776d29861",
+			"created_at": "2016-05-05T18:05:01.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/21985467_iQvvJQpZ465clQKkXVl39WdTMASwLeVzLN0wWFJ0CTc.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "57162c40498ed70464c5cce6",
+			"created_at": "2016-04-19T13:01:52.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/66220769_xlNasWj2CHtLwxtaM4kHurNRULJ9J7TCpxnxmIVwL8I.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "56e87664498eba0a643b2ea9",
+			"created_at": "2016-03-15T20:53:56.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/20768263_2qKcmbxqadE41pIEnnw9IBg2-n_sqg1Yh4HFQSP3jPg.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "59bbbfd3ccad6b1ceb205887",
+		"categories": [
+		  {
+			"id": 17030,
+			"name": "Cosmetics Store",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.497337,
+			"longitude": 19.053338
+		  },
+		  "roof": {
+			"latitude": 47.497337,
+			"longitude": 19.053338
+		  }
+		},
+		"name": "Lush",
+		"photos": [
+		  {
+			"id": "61c97cbb20df1a1b7f8a7338",
+			"created_at": "2021-12-27T08:43:39.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/15841013_cn5Asp7F_add8fsU-e4GRtK4bpiLAUx4BxBjbXf0h9A.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "60a92140d5b9ca656203ef37",
+			"created_at": "2021-05-22T15:20:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/11887250__qlnekCEtSZAl0kbqBVXj9-yqNwIBCxOqsp4qWaLcNg.jpg",
+			"width": 1920,
+			"height": 1080
+		  },
+		  {
+			"id": "5bb7930e531593002cfc476e",
+			"created_at": "2018-10-05T16:36:30.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/420394598_vw6mbD2q2x2_cXjflPJdJ25cVnd4WsCv8MgVNoNUfvM.jpg",
+			"width": 1425,
+			"height": 1900,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "5bb792e14aa3f8002c63fa22",
+			"created_at": "2018-10-05T16:35:45.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/420394598_zUVme6J7zRsq7bS5eiIgwEayEz6xiCn8B4JQEyX0ZnU.jpg",
+			"width": 1425,
+			"height": 1900,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "5bb792cca35dce002c46384e",
+			"created_at": "2018-10-05T16:35:24.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/420394598_RfkKL4vY-_V4KoSjRD4pwEaZhsdY3ZfI2onBRaVlY3E.jpg",
+			"width": 1425,
+			"height": 1900,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "54722d90498eafa3c17f4a67",
+		"categories": [
+		  {
+			"id": 11073,
+			"name": "Spa",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/spa_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "The high – class designed 5 Elements Balinese Day Spa is located in the historic part of Buda area, near the promenade of the River Danube.",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.507513,
+			"longitude": 19.037992
+		  },
+		  "roof": {
+			"latitude": 47.507513,
+			"longitude": 19.037992
+		  }
+		},
+		"name": "5 Elements Balinese Day Spa",
+		"photos": [
+		  {
+			"id": "5472398711d2b77dd0d5c851",
+			"created_at": "2014-11-23T19:46:15.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/102644299_zbmhr4_J9WkWhxrXtcd46-2m13xJVg-7paElqwjW-OE.jpg",
+			"width": 562,
+			"height": 842
+		  },
+		  {
+			"id": "61521e2bb63ad61cc0ae6e42",
+			"created_at": "2021-09-27T19:40:27.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/19793679_Ysas-vMwaFMebpWB0SCLTQ6KYlQ4kWQo461Jt5pktKA.jpg",
+			"width": 1920,
+			"height": 1080
+		  },
+		  {
+			"id": "5d2f36f4898bc70008558d59",
+			"created_at": "2019-07-17T14:55:48.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/58303850_zdulEUtJFSDzSY4sN6CZyR3TVcyMigdZNrHkKH5NF1c.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "569a5985498e9fa8e97667d6",
+			"created_at": "2016-01-16T14:53:57.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/151594497_WEpcPA_BrulvSHljzQgQjYFGbuMBvSSOhiOJMp9cWVM.jpg",
+			"width": 2688,
+			"height": 1520,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "5471cb19498ef26afdcb712e",
+			"created_at": "2014-11-23T11:55:05.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/33425815_vVtE0dyQYg4uX5k1obECnqPatdd0opz2ueWQRCDQNAA.jpg",
+			"width": 720,
+			"height": 960
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "55b5e473498e8431c3fdaf69",
+		"categories": [
+		  {
+			"id": 13002,
+			"name": "Bakery",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13032,
+			"name": "Cafes, Coffee, and Tea Houses",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "Kiváló minőségű pékáru adalékanyagok nélkül Az Artizánban kizárólag helyben sült, kiváló minőségű pékárut készítünk, friss és hazai alapanyagokból. Fontosnak tartjuk, hogy termékeink minősége és összetétele megfelelő legyen ezáltal biztosítva a magas tápanyagtartalmat.",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.503723,
+			"longitude": 19.052892
+		  },
+		  "roof": {
+			"latitude": 47.503723,
+			"longitude": 19.052892
+		  }
+		},
+		"name": "Artizán Budapest",
+		"photos": [
+		  {
+			"id": "5bbdada7deb4950025785ee6",
+			"created_at": "2018-10-10T07:43:35.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/504234819_QZG9Rvjh_oI8IQi5Ehv4uwuEbVOtH-Vs9lIOKsUEgZE.jpg",
+			"width": 1080,
+			"height": 1080,
+			"classifications": [
+			  "food",
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "5e4bd57340163e0008d4f7f4",
+			"created_at": "2020-02-18T12:15:47.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/13346483_h4feHv0c3REr8gbyCq1QJHAMVzkuzDWiR2-mgVLsilI.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "5b73e946e1f0aa002c5c47b9",
+			"created_at": "2018-08-15T08:50:14.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/46312663_pLQMDxLXe0_fTJOfrqzIT0_hHqq-Na8Rp8e1tbVSsvo.jpg",
+			"width": 1920,
+			"height": 1440,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "562ccf56498e84779ffd0cad",
+			"created_at": "2015-10-25T12:47:18.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/75068526_iQUlrCfVop9M4FSsWeaxxO5d1BQlw6neaQT3saMKB0Q.jpg",
+			"width": 1439,
+			"height": 1920,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "596dbd9b872f7d2cac814e69",
+			"created_at": "2017-07-18T07:49:47.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/32220821_jXkzp7AjU14DR-6yzc9BGWJJGnPslYg1eeLcYvxv1gE.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "indoor"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4bf80dbb508c0f47ad353e31",
+		"categories": [
+		  {
+			"id": 10043,
+			"name": "Theater",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "WI-FI: Hálózat: Kantin Jelszó: katona201230",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.493669,
+			"longitude": 19.054682
+		  },
+		  "roof": {
+			"latitude": 47.493669,
+			"longitude": 19.054682
+		  }
+		},
+		"name": "Katona József Színház",
+		"photos": [
+		  {
+			"id": "516db02f164810feff401399",
+			"created_at": "2013-04-16T20:10:23.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/53624332_SNs3l0isgMZ7V9iMuaQddgs39mo6znPHcWlG5_pg-Zw.jpg",
+			"width": 858,
+			"height": 570
+		  },
+		  {
+			"id": "513318bee4b0dbd9f71cbbb4",
+			"created_at": "2013-03-03T09:32:46.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/19445982_WvxcN1xyYuyGbSV7FIJkofMiTdcaGk3kEuTBKUNzJ14.jpg",
+			"width": 960,
+			"height": 720
+		  },
+		  {
+			"id": "5096cb2ce4b03857770f8dc8",
+			"created_at": "2012-11-04T20:08:12.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/25189448_YWWJOOjXA0rawZhj1WOI9ETYlx9BEHDCzJ6Cw__c0sU.jpg",
+			"width": 540,
+			"height": 720
+		  },
+		  {
+			"id": "52b2370411d2a1360f5e34c3",
+			"created_at": "2013-12-19T00:00:04.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/17499463_AXV5I7Tm42JPgVbA7TpAxzrZBnU6PlLsyMp6SwYSuhs.jpg",
+			"width": 640,
+			"height": 640
+		  },
+		  {
+			"id": "5344386b498e03900c9ea8cf",
+			"created_at": "2014-04-08T17:56:59.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/24666440_Ih6DiUwslIW-6EVe-Qq--VvSlQTVseqhdpDv1JDo4DY.jpg",
+			"width": 720,
+			"height": 720,
+			"classifications": [
+			  "menu"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "584898e752a051634703ec8a",
+		"categories": [
+		  {
+			"id": 13026,
+			"name": "BBQ Joint",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13035,
+			"name": "Coffee Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "Slow food, fast. Ez a hely húsról szól. Padlizsánporos paszternákpüré helyett ragacsos császár és ropogós csülök van. Érted.",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.500879,
+			"longitude": 19.05527
+		  },
+		  "roof": {
+			"latitude": 47.500879,
+			"longitude": 19.05527
+		  }
+		},
+		"name": "Meatology Budapest",
+		"photos": [
+		  {
+			"id": "6240a1cf4905b735e1a78eca",
+			"created_at": "2022-03-27T17:41:35.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/480734491__PP7PHRLPpLsT7ZvyB2kuUPE2dEYovxX57X11smZBY0.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "616818a28fbd5c33ed45a49e",
+			"created_at": "2021-10-14T11:46:42.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/43965951_9BGjSvlEl_X0CJw2jURdJ6BLEPaqs3aGWL-aY_t2BFE.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "616818a19299eb6bcd7210d4",
+			"created_at": "2021-10-14T11:46:41.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/43965951_GkPw_WMEmYL6irbrilaCibbZlcgWa_L7UxvAmp6vnn4.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5e6632da03e94a00081ea0eb",
+			"created_at": "2020-03-09T12:13:14.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/497414266_0fzDXMEvFiQARx20txcuelcwwq82DsyagYUj0G9ti-M.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "5e5950ec32281c000826844e",
+			"created_at": "2020-02-28T17:42:04.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/7556815_eT-vZFgfCKxlxT_JEG035eHOOEilEBVjL0nBsc4aDS0.jpg",
+			"width": 1080,
+			"height": 810,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "5166e153e4b02129db3b1e34",
+		"categories": [
+		  {
+			"id": 13002,
+			"name": "Bakery",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "Adalékszer mentes, természetes pékáruk! Nálunk megtalálja az igazán finomat és az egészségeset egybegyúrva!",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.507015,
+			"longitude": 19.032117
+		  },
+		  "roof": {
+			"latitude": 47.507015,
+			"longitude": 19.032117
+		  }
+		},
+		"name": "Pékműhely",
+		"photos": [
+		  {
+			"id": "5230129011d22e278d8d5ef9",
+			"created_at": "2013-09-11T06:49:52.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/12674425_VDyviAunAHWjEXdgSoSBGu2phl-gib4Wn0ScsL5URjA.jpg",
+			"width": 612,
+			"height": 612
+		  },
+		  {
+			"id": "519ba61d498ee472d84b315d",
+			"created_at": "2013-05-21T16:51:41.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/42380063_cZ6vQ1tvv8FModKI69u3t7LkMEJv1G4Sc0gO6IWZ_rg.jpg",
+			"width": 960,
+			"height": 575
+		  },
+		  {
+			"id": "519ba5f7498e881975f4f920",
+			"created_at": "2013-05-21T16:51:03.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/42380063_J9DBYZg1vpcdSQOnLTj9oQXmDaqX1WpJ41qphPqY-Us.jpg",
+			"width": 575,
+			"height": 960
+		  },
+		  {
+			"id": "51911ff0498e4c03b3a4399e",
+			"created_at": "2013-05-13T17:16:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/12674425_-vkXL6wQZFfuDMsu-2f-fV-567u8gqGb8gM-_YrCZko.jpg",
+			"width": 612,
+			"height": 612
+		  },
+		  {
+			"id": "525e41cd498ed8c471ed3024",
+			"created_at": "2013-10-16T07:35:41.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/12440823_ybtGg9JHAXG8Zt_y1cK0U8fdewXttAZ3uBBtpPJd1ko.jpg",
+			"width": 720,
+			"height": 720,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4d7e30ebf635236a4f216316",
+		"categories": [
+		  {
+			"id": 16019,
+			"name": "Hiking Trail",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.487218,
+			"longitude": 19.044217
+		  }
+		},
+		"name": "Citadella Sétány",
+		"photos": [
+		  {
+			"id": "5038d1f0e4b0361aeb8b8bc4",
+			"created_at": "2012-08-25T13:24:00.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/Fam48mc4RNrHzAxqNEJbFembmJYFD7PQcng3z2Ue-3U.jpg",
+			"width": 612,
+			"height": 612,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "504dd0f3e4b03e4ada3d7d9a",
+			"created_at": "2012-09-10T11:37:23.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/IrTMTMeUg4XOJQjkJHZpq1R6bBYgyT4e2i9JjM9IiCI.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "50436fd5e4b08d5b62c6a234",
+			"created_at": "2012-09-02T14:40:21.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6z-VKHxL5gslWkivDqowCBvoKUzo1HNWvXLfS1qw9xM.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "50168a1fe4b08516d33eddef",
+			"created_at": "2012-07-30T13:20:31.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/m-0QQ0JyE8wnrF3zL3zqvuuw8VKFSQVyTivZdtxXFso.jpg",
+			"width": 540,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "516f106fe4b059af40c94c26",
+			"created_at": "2013-04-17T21:13:19.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/38347080_eqhOPLoRfVDrgxokLA2mR4XSq45YDUI1_ljRHNihUMA.jpg",
+			"width": 960,
+			"height": 541,
+			"classifications": [
+			  "outdoor"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4db91b804b22a2fe44eb2c9b",
+		"categories": [
+		  {
+			"id": 11064,
+			"name": "Hair Salon",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/salon_barber_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.505381,
+			"longitude": 19.050995
+		  },
+		  "roof": {
+			"latitude": 47.505381,
+			"longitude": 19.050995
+		  }
+		},
+		"name": "Metropolitan Beauty",
+		"photos": [
+		  {
+			"id": "518e307b498ed6d59a33933e",
+			"created_at": "2013-05-11T11:50:19.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/55330851_MZyWadBCNM833dL-r0vrIUpvXnEZNibqxxReWF3SuqM.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "4e6862f1483bc7763067dbc7",
+			"created_at": "2011-09-08T06:38:41.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/EYY1R103PJWFURJMLYQMXS5WNQKUZUN0EGHPWF4BQ4ZVRSO0.jpg",
+			"width": 720,
+			"height": 537
+		  },
+		  {
+			"id": "54a2c824498e2ed5c027054c",
+			"created_at": "2014-12-30T15:43:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/8936097_z7GaJeMqC1YnZqeiH0lwtVB5ffVWUeHOTQZ_nsqding.jpg",
+			"width": 1920,
+			"height": 1431,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "53723348498e35d9c8353e8c",
+			"created_at": "2014-05-13T14:59:20.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6393871_-djPvCbYMclxskqc2Q_ff7Fc_4ss888O3WYaoJKvrYg.jpg",
+			"width": 640,
+			"height": 640
+		  },
+		  {
+			"id": "530794e7498e82f896e9404c",
+			"created_at": "2014-02-21T18:03:19.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6913372_WgWcJU8vX1XtdpM4_sEJ0i0e_I_gqRvEquKoMIN00tk.jpg",
+			"width": 720,
+			"height": 960
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "5f745f033d7c6467d2621985",
+		"categories": [
+		  {
+			"id": 13006,
+			"name": "Beer Bar",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "A Mad Scientist multifunkcionális gasztrótere a belvárosban, 25 sörcsappal, minőségi bisztrókonyhával, valamint komoly natúr bor- és spiritválasztékkal.",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.498122,
+			"longitude": 19.055505
+		  }
+		},
+		"name": "MADHOUSE Craft Beer & Bistro",
+		"photos": [
+		  {
+			"id": "624753a743848d69a155b848",
+			"created_at": "2022-04-01T19:33:59.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/7550812_wwAYHN3mG0JWyxqjcptqU2OUz8RIjGkyHiJQ1aZeLU4.jpg",
+			"width": 1134,
+			"height": 2016
+		  },
+		  {
+			"id": "62474efc3375776898770d2d",
+			"created_at": "2022-04-01T19:14:04.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/7550812_qdJse4twej-p6u4dOZ2aDEmj2snYy-RaqvxSfJsZyCY.jpg",
+			"width": 1134,
+			"height": 2016
+		  },
+		  {
+			"id": "624741e16993f17469e52ac7",
+			"created_at": "2022-04-01T18:18:09.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/7550812_W-UbT4cBw8OxCDzHk6fk_9KFjMPub0D8_gQPd0aeCl8.jpg",
+			"width": 1134,
+			"height": 2016
+		  },
+		  {
+			"id": "62054c22c43d0a72e2699660",
+			"created_at": "2022-02-10T17:32:18.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/44709634_dPDxC_q6U5WmhgZW7JifAjYV6xwjCkNlqf_8qB9thw0.jpg",
+			"width": 1425,
+			"height": 1900
+		  },
+		  {
+			"id": "61f69d45193ca25cbba79634",
+			"created_at": "2022-01-30T14:14:29.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/337099231_CiidJlQlLAMuSSX6H4xe___G6RxdY6rxb69cfjMb1gY.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4b7f0134f964a520ae0f30e3",
+		"categories": [
+		  {
+			"id": 13009,
+			"name": "Cocktail Bar",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.499368,
+			"longitude": 19.055847
+		  },
+		  "roof": {
+			"latitude": 47.499368,
+			"longitude": 19.055847
+		  }
+		},
+		"name": "Boutiq'Bar",
+		"photos": [
+		  {
+			"id": "504b945be4b0b0e06769a1ea",
+			"created_at": "2012-09-08T18:54:19.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/Uh3RWqcSgbczM22AVViEVXPREka0Mbmfzy7tHMpIpec.jpg",
+			"width": 612,
+			"height": 612
+		  },
+		  {
+			"id": "527e83f311d200933826bb71",
+			"created_at": "2013-11-09T18:50:27.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/5956206_YrLUOu8CqcJRSxpELHmzDOhbkdExMnOgedGTenxHLJs.jpg",
+			"width": 720,
+			"height": 960,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "4ebd852ab6341bd78948ab05",
+			"created_at": "2011-11-11T20:27:22.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/C504VW1G0WRWAXGHTE1XKJATTZCQODUNA3DRJ4I1LPZLOPCV.jpg",
+			"width": 537,
+			"height": 720
+		  },
+		  {
+			"id": "50d4b1fae4b0ea4f58a89c52",
+			"created_at": "2012-12-21T19:01:14.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/11066647_5Djer0vpLq3rfhFfdZEYGFGWit2ZooUsp2Q-Al1DxLo.jpg",
+			"width": 717,
+			"height": 959,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "50ca68d1e4b0ed7c2a888e00",
+			"created_at": "2012-12-13T23:46:25.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/38486896_TsVZlJL1qAcDA4Zl4kgFZccLWJbf3xTpzpeH6wGha6E.jpg",
+			"width": 540,
+			"height": 720
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4badd21af964a5205e6b3be3",
+		"categories": [
+		  {
+			"id": 16020,
+			"name": "Historic and Protected Site",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.486998,
+			"longitude": 19.046345
+		  }
+		},
+		"name": "Citadella",
+		"photos": [
+		  {
+			"id": "51606af8e4b0531a24f4679a",
+			"created_at": "2013-04-06T18:35:36.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6007739_H3lpdodXrfv92q483z1LDw7neQl2v4zr_jfDaxxaWp8.jpg",
+			"width": 960,
+			"height": 720,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "4ff9d2e5e4b04619c87a17e9",
+			"created_at": "2012-07-08T18:35:17.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/a7e6lGn9KQLy2dMCHtjFEpBV1Sr3OVKL4uTqmG8f5kk.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "5066fa89e4b0ca8b1f334080",
+			"created_at": "2012-09-29T13:41:29.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/149161_d8rMaTUoTiO3fLuuqJynwq_rs3ezy03uhcQCfB3MB8E.jpg",
+			"width": 612,
+			"height": 612,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "502f555ce4b09116a13221d8",
+			"created_at": "2012-08-18T08:42:04.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/VZFVvie1Nv68DP43liN0AT5_uQPfkSJmxeBuUcb33EM.jpg",
+			"width": 612,
+			"height": 612
+		  },
+		  {
+			"id": "51c6e33f498ebd075cb38ac5",
+			"created_at": "2013-06-23T11:59:59.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/411688_jdGt9XK2DP4v30Cd_OEo8RUczvEE973XCaZ1gLQG3Sg.jpg",
+			"width": 720,
+			"height": 960
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "58d8eee99435a979b83b5ed0",
+		"categories": [
+		  {
+			"id": 13035,
+			"name": "Coffee Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.507361,
+			"longitude": 19.048806
+		  },
+		  "roof": {
+			"latitude": 47.507361,
+			"longitude": 19.048806
+		  }
+		},
+		"name": "Madal Cafe - Espresso & Brew Bar - Alkotmány",
+		"photos": [
+		  {
+			"id": "625013be63c2e22f6ec4b87c",
+			"created_at": "2022-04-08T10:51:42.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/17894709_sMFU0Fs4Jxp--RSEzSABTENcEPfLZAic5dKnDdRrlm0.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "6237417ebb5d93076aa9b710",
+			"created_at": "2022-03-20T15:00:14.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/580524595_LOVBf72c_kMpQIwBKuMch-vThlx516L6FFz9jssu1-4.jpg",
+			"width": 1080,
+			"height": 810
+		  },
+		  {
+			"id": "61ffa67d1a982a29a43050c9",
+			"created_at": "2022-02-06T10:44:13.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1382218603_8hAp8CX8uA5NCK-XOtG6gDUi8CKPgSKjq-THwKEmt7c.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61fd2dd4eea3a304417f066f",
+			"created_at": "2022-02-04T13:44:52.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1382219816_T4IAdT5Qx11HM4EYFGCv7-ptttYGHUENkFusavJmSTc.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61fd2dd20f9a7813edeffa8b",
+			"created_at": "2022-02-04T13:44:50.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1382219816_yMsKd9NQyQVqWoFxtEtv6qoc84qGN555SebC4EIsWtg.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "56309c3a498e038e73c8931d",
+		"categories": [
+		  {
+			"id": 13035,
+			"name": "Coffee Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.502019,
+			"longitude": 19.055523
+		  },
+		  "roof": {
+			"latitude": 47.502019,
+			"longitude": 19.055523
+		  }
+		},
+		"name": "9Bar Coffee",
+		"photos": [
+		  {
+			"id": "621372383e07e501034cd5ee",
+			"created_at": "2022-02-21T11:06:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/24054456_jqeQb7stnJzosGRJy2ZE9Aur0cp9uePqSc2XJ0dlN-c.jpg",
+			"width": 1440,
+			"height": 1440
+		  },
+		  {
+			"id": "61e28519b582b613ee4f2924",
+			"created_at": "2022-01-15T08:26:01.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/18078567_EUIZ5aDmmFIDJkwTs8FAXOLB3_DLdBhiibuqmlY74HA.jpg",
+			"width": 1080,
+			"height": 890
+		  },
+		  {
+			"id": "61e18e986a8209352c31a9e4",
+			"created_at": "2022-01-14T14:54:16.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/18078567_nL6FplAw3-T4m_TkXdWFlTVIO5BTIfsDJIIjRqqAizY.jpg",
+			"width": 1080,
+			"height": 810
+		  },
+		  {
+			"id": "61dfdf9adf894735db1aaae0",
+			"created_at": "2022-01-13T08:15:22.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1382095716_6YDnwdljzgxMi0Q50Pygkg-DAm0oQMKVYMWBuNhB_js.jpg",
+			"width": 720,
+			"height": 960
+		  },
+		  {
+			"id": "61dfdf8ab582b613ee3db053",
+			"created_at": "2022-01-13T08:15:06.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1382095716_-6gUf5NmG5sl-3vrqwtm1QTE0FvSZ8u07NsK3UeSdl4.jpg",
+			"width": 720,
+			"height": 960
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4d73a5dbbce5721e03acde15",
+		"categories": [
+		  {
+			"id": 16037,
+			"name": "Playground",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.487012,
+			"longitude": 19.040253
+		  },
+		  "roof": {
+			"latitude": 47.487012,
+			"longitude": 19.040253
+		  }
+		},
+		"name": "Vuk Játszótér",
+		"photos": [
+		  {
+			"id": "526d507411d274c037800624",
+			"created_at": "2013-10-27T17:42:12.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/29276184_6ylpcRpmE0TiL4fhpZoq1PJnDk6kZZTzDqIERu6rBuw.jpg",
+			"width": 540,
+			"height": 540
+		  },
+		  {
+			"id": "50850144e4b07dd17d634505",
+			"created_at": "2012-10-22T08:18:12.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/17528887_N1Vptc4Hx22GlktR4_1jfs20bs52QWgiqfJv-4IWUVQ.jpg",
+			"width": 480,
+			"height": 720
+		  },
+		  {
+			"id": "51e7e96f498e94b8c75545e4",
+			"created_at": "2013-07-18T13:11:11.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/11895718_IJbpqK1YhPBy518njTFe5ZPQlvxbcFrzHVbmdqz5cs8.jpg",
+			"width": 960,
+			"height": 720
+		  },
+		  {
+			"id": "500138e3e4b0ae2f16edede5",
+			"created_at": "2012-07-14T09:16:19.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/PoHi4lgGOCY-gC-zlechF4jHX6ZAdoDr-5z7IpB-Ap4.jpg",
+			"width": 720,
+			"height": 537
+		  },
+		  {
+			"id": "50850768e4b05bd7f025e3d6",
+			"created_at": "2012-10-22T08:44:24.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/17528887_IsYQWLO9nfKo77LWMw4tNkDoc4qX-R5b7plQMMdWLaQ.jpg",
+			"width": 480,
+			"height": 720,
+			"classifications": [
+			  "menu"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4e07708a81dc6d6d36a5ecdb",
+		"categories": [
+		  {
+			"id": 16027,
+			"name": "Mountain",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/mountain_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.486382,
+			"longitude": 19.046946
+		  }
+		},
+		"name": "Gellért Hill (Gellért-hegy)",
+		"photos": [
+		  {
+			"id": "51e67fa6498ee4f095f0ef33",
+			"created_at": "2013-07-17T11:27:34.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/51087993_co4A6fZLPHuSb74PWHTi-aiMNG-YlhvId8U7Crntivk.jpg",
+			"width": 720,
+			"height": 960
+		  },
+		  {
+			"id": "5082b000e4b0b8e84419b83f",
+			"created_at": "2012-10-20T14:06:56.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/4633561_ACXP-86h8eFLBgWKEbENkkscQmdB0XZc53a41MOeu_c.jpg",
+			"width": 640,
+			"height": 480,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "51ab73f8498e00f39949e5b1",
+			"created_at": "2013-06-02T16:34:00.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/10867123_zBz2RybVbjpOpk19uPgw1yvw6IYUcQ1mkenszZu9ZXc.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "51b0b462498ecc840b4a37a4",
+			"created_at": "2013-06-06T16:10:10.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/15737673_r-CPmskf1VdqXRiqm0huWsrpfUZK3KV-5UA3ohlNa2U.jpg",
+			"width": 960,
+			"height": 640,
+			"classifications": [
+			  "outdoor"
+			]
+		  },
+		  {
+			"id": "5056202ae4b0c3ed1f93fae4",
+			"created_at": "2012-09-16T18:53:30.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/33931533_t5OrMLR6IVMYifypXIBkYn3lNh1ugro2r_6F5-PbR9A.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "outdoor"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "55bd02c4498e0546ea2a93f9",
+		"categories": [
+		  {
+			"id": 13035,
+			"name": "Coffee Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.492602,
+			"longitude": 19.056143
+		  },
+		  "roof": {
+			"latitude": 47.492602,
+			"longitude": 19.056143
+		  }
+		},
+		"name": "Madal Cafe - Espresso & Brew Bar",
+		"photos": [
+		  {
+			"id": "56249e3f498e0616c6bd1ee3",
+			"created_at": "2015-10-19T07:39:43.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/51934876_UgREam2o-Ix_fTVHOPj3h7TH4VaeS4_tG0ShZYgm4Ds.jpg",
+			"width": 1440,
+			"height": 1440,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "58ed08b1d4ab7306d2925b7b",
+			"created_at": "2017-04-11T16:47:45.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/39105902_ZenyFSuS457DQdieZPFrLCWFpckgnfXABE1Cv9tCZ2U.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "57fa235a498e8083ea2e7f03",
+			"created_at": "2016-10-09T11:00:42.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/5515053_E_TgmqwMU3_SGuUU9Hbd3nHwk9bA_qKTTI5dZdQNxlo.jpg",
+			"width": 1440,
+			"height": 1440
+		  },
+		  {
+			"id": "56e98c1ccd10edc7704a1ef1",
+			"created_at": "2016-03-16T16:38:52.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/12034446_P2vKaJtJJIgEvURr87Z47q6tOoIBoOaB4IVu2xtSZA8.jpg",
+			"width": 1728,
+			"height": 3072
+		  },
+		  {
+			"id": "56249f3b498e99b83382682a",
+			"created_at": "2015-10-19T07:43:55.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/51934876_SgidZGrjCR6ICbS8ZPZZUxPDQtVb-AIfztTVcOj2wtY.jpg",
+			"width": 1440,
+			"height": 1440,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4f84035fe4b03669d25e1b75",
+		"categories": [
+		  {
+			"id": 13027,
+			"name": "Bistro",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13035,
+			"name": "Coffee Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "The 1st Specialty Coffee Shop In Hungary | espresso bar | est. 04.2012",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.497655,
+			"longitude": 19.057695
+		  },
+		  "roof": {
+			"latitude": 47.497655,
+			"longitude": 19.057695
+		  }
+		},
+		"name": "My Little Melbourne Coffee",
+		"photos": [
+		  {
+			"id": "5204c459498ef27277a59127",
+			"created_at": "2013-08-09T10:28:41.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/16709402_HFz5nUNpccM9rsGKNxx8A6ENbfli3F3MDqe2ITy_vW8.jpg",
+			"width": 720,
+			"height": 720
+		  },
+		  {
+			"id": "505b043fe4b046b36d2fcb43",
+			"created_at": "2012-09-20T11:55:43.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/2124129_u7_I6VJCHEvfqpSnxSAn-PpB0qrL03GYt8DoSCYiI5s.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "52146f72498edc103e1855bc",
+			"created_at": "2013-08-21T07:42:42.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/8269085_jPCV5I6vFeMBYsF1ksEWLZcUzhPYjo6psn6eVQJAeEg.jpg",
+			"width": 960,
+			"height": 720
+		  },
+		  {
+			"id": "51dfa517498ebc4592b91415",
+			"created_at": "2013-07-12T06:41:27.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/25860618_wrqGqELs4jlx1HdzDSezg1fk_ilGwjhkaMzHAe10uuk.jpg",
+			"width": 960,
+			"height": 720
+		  },
+		  {
+			"id": "508c0bfae4b0167a9d84841f",
+			"created_at": "2012-10-27T16:29:46.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/15405187_YbupyStyUJsupvyTGN6ddzc6YnnAVJlPFqjwL6piJrs.jpg",
+			"width": 612,
+			"height": 612
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4c6311a3e1621b8d80072553",
+		"categories": [
+		  {
+			"id": 13035,
+			"name": "Coffee Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13064,
+			"name": "Pizzeria",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13236,
+			"name": "Italian Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.505157,
+			"longitude": 19.055251
+		  },
+		  "roof": {
+			"latitude": 47.505157,
+			"longitude": 19.055251
+		  }
+		},
+		"name": "Caffe GianMario",
+		"photos": [
+		  {
+			"id": "4fe0be79e4b03326d7d6753a",
+			"created_at": "2012-06-19T18:01:29.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/IO_HjxBWut4vOXrKmMsM5dLnAiv0MMWSXXCVzHFWVcc.jpg",
+			"width": 720,
+			"height": 540
+		  },
+		  {
+			"id": "4f21d57de4b0d609c3dd06ad",
+			"created_at": "2012-01-26T22:36:45.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/22A4M3CWYCDZWZC2L3QGVE52P4HSH1LWVEC2C14NVNXUNMWB.jpg",
+			"width": 720,
+			"height": 540,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "51ed45c4498ecd4c1356ac60",
+			"created_at": "2013-07-22T14:46:28.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/42730916__UJfxMoW8VQOJOqLLCl9tnKrtStNrs0KxKcdNsKlHJs.jpg",
+			"width": 960,
+			"height": 960,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "5136721fe4b0c54b4dec5f8f",
+			"created_at": "2013-03-05T22:30:55.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/47968377_mZQBFmxJC0IKdirA0DMCvLp7pfHlEcTA3y_ZBSQ_3b0.jpg",
+			"width": 720,
+			"height": 960
+		  },
+		  {
+			"id": "514a03f0e4b0994d7a5b0b81",
+			"created_at": "2013-03-20T18:46:08.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/5703587_VJCkjUYcDJLHTouKJjwmKzdwQm90vTUeka-HKAiN1k0.jpg",
+			"width": 960,
+			"height": 720
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "4cdadceefc9737046f44cb05",
+		"categories": [
+		  {
+			"id": 10043,
+			"name": "Theater",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.49228,
+			"longitude": 19.056434
+		  },
+		  "roof": {
+			"latitude": 47.49228,
+			"longitude": 19.056434
+		  }
+		},
+		"name": "Katona József Színház - Kamra",
+		"photos": [
+		  {
+			"id": "620fd10559466f37abb551f3",
+			"created_at": "2022-02-18T17:01:57.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/7085559_WME4nThwE_HlSa6NI8TECaz0K1TFyotjV3jglHwO2x8.jpg",
+			"width": 1080,
+			"height": 607
+		  },
+		  {
+			"id": "620551a8cd3d9c72c34936fd",
+			"created_at": "2022-02-10T17:55:52.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/4248947_mV9eI1JDD1EgHamawWWKKzyHzG34iZ5yzpGGLnx8xrU.jpg",
+			"width": 1080,
+			"height": 1440
+		  },
+		  {
+			"id": "61e866f5a879a539923930a2",
+			"created_at": "2022-01-19T19:31:01.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/67303792_sJYs-9WQOvnoAzUOF_Mc40Rtj0QczyGr5ul9ubXT8y0.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "61c0b6f44881bf2a2d621794",
+			"created_at": "2021-12-20T17:01:40.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/21297562_OktB1Jxt8dQmicOSEdkGKEsFt5_FMgKSyMoDDpMN8ww.jpg",
+			"width": 855,
+			"height": 1900
+		  },
+		  {
+			"id": "5e39d6f82eff590008b549fb",
+			"created_at": "2020-02-04T20:41:28.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1009309_qoWIwg2ER0IlDNALJb__lqGh0EtZdT1veENSJhe_Jmo.jpg",
+			"width": 1440,
+			"height": 1920,
+			"classifications": [
+			  "menu"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "50f5a2d6e4b0ae48c70f09b1",
+		"categories": [
+		  {
+			"id": 13035,
+			"name": "Coffee Shop",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13065,
+			"name": "Restaurant",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "we love to make great coffee, and serve it to great people",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.495653,
+			"longitude": 19.057828
+		  },
+		  "roof": {
+			"latitude": 47.495653,
+			"longitude": 19.057828
+		  }
+		},
+		"name": "Kontakt",
+		"photos": [
+		  {
+			"id": "555dc2ec498e74d85f8cd9d7",
+			"created_at": "2015-05-21T11:35:08.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/42436098_RuovZv4paPuBzJ9c79lJUVASs0W1RInZp5qyTTbkBGw.jpg",
+			"width": 1440,
+			"height": 1440,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "56448500498e65d4c49e44c1",
+			"created_at": "2015-11-12T12:24:32.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1023762_N8Uspu6u00RLVU3GgSeb6IIVrZqyQotXpbtqGU5NXRo.jpg",
+			"width": 1440,
+			"height": 1440,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "5aec60a8bed483002cf16648",
+			"created_at": "2018-05-04T13:31:20.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/1420364_tv_xP24JS5YU-Jz8AZOxrUadr9clIwYCtcYkVn7brFQ.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "547825fb498e806ce815d4f8",
+			"created_at": "2014-11-28T07:36:27.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/385857_hr8GEmz1abAO2qyu4jUkkOp5944DT6Um-r6dAsaL_0g.jpg",
+			"width": 960,
+			"height": 720,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "555c2a58498e58956e8212bb",
+			"created_at": "2015-05-20T06:31:52.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/36479336_qHygMo1VSM1Bwej9TwXmfU8FJ_qHtUilbHoj9qjUBgY.jpg",
+			"width": 960,
+			"height": 960,
+			"classifications": [
+			  "food"
+			]
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "58827c3054073d0c8ddf198d",
+		"categories": [
+		  {
+			"id": 13009,
+			"name": "Cocktail Bar",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"geocodes": {
+		  "main": {
+			"latitude": 47.490707,
+			"longitude": 19.056277
+		  },
+		  "roof": {
+			"latitude": 47.490707,
+			"longitude": 19.056277
+		  }
+		},
+		"name": "GoodSpirit Whiskey & Cocktail Bar",
+		"photos": [
+		  {
+			"id": "61ce297f3a8d813cc0338e16",
+			"created_at": "2021-12-30T21:49:51.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/4248947_esiaPedOX_MiOI-2SQH2EfChX50nZ114Y3hpkpZfXiE.jpg",
+			"width": 1080,
+			"height": 810
+		  },
+		  {
+			"id": "6175c3c9669f1b4453657219",
+			"created_at": "2021-10-24T20:36:25.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/486324578_VzikaGI2lFf71VX7Ds9LPJmPFjuSym44ccCQDngQ5MQ.jpg",
+			"width": 1440,
+			"height": 1920
+		  },
+		  {
+			"id": "612a6d936f490c66a464d1e7",
+			"created_at": "2021-08-28T17:08:35.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6057837_3YIwWqaoX0FojrQ95SDrArhjRh_tDnGbyxtL7cgtU2o.jpg",
+			"width": 1440,
+			"height": 1440
+		  },
+		  {
+			"id": "608d08661c557b196e56e165",
+			"created_at": "2021-05-01T07:51:02.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/12600089_3gtZXHdpg-6DQr8XyyRkxAPFOagEQECNPEs8P4DyiQA.jpg",
+			"width": 1920,
+			"height": 1440
+		  },
+		  {
+			"id": "608d0827e5384568e53d0812",
+			"created_at": "2021-05-01T07:49:59.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/12600089_TJiNsGONRGOXbxsS4kbsB3BjZqVdA6RI3fjeZI46E4w.jpg",
+			"width": 1440,
+			"height": 1920
+		  }
+		]
+	  },
+	  {
+		"fsq_id": "515bdf0de4b0b6ac13e80627",
+		"categories": [
+		  {
+			"id": 13034,
+			"name": "Café",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+			  "suffix": ".png"
+			}
+		  },
+		  {
+			"id": 13003,
+			"name": "Bar",
+			"icon": {
+			  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+			  "suffix": ".png"
+			}
+		  }
+		],
+		"description": "DRINK EAT BEAT BUDA!",
+		"geocodes": {
+		  "main": {
+			"latitude": 47.508186,
+			"longitude": 19.030265
+		  },
+		  "roof": {
+			"latitude": 47.508186,
+			"longitude": 19.030265
+		  }
+		},
+		"name": "Jurányi Suterene",
+		"photos": [
+		  {
+			"id": "515ea734e4b009aa2e64ebf7",
+			"created_at": "2013-04-05T10:28:04.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/13591466_zEENafuiOKAg8_XNL68o5mGeEw15zMApg5iVg6YtIGs.jpg",
+			"width": 960,
+			"height": 640
+		  },
+		  {
+			"id": "534d832b498ea58ddf5306e7",
+			"created_at": "2014-04-15T19:06:19.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6651252_VH50vpjiOkzD0BCUy5GaU7ZQSCXKezlaLDRFicNm_F0.jpg",
+			"width": 640,
+			"height": 640,
+			"classifications": [
+			  "food"
+			]
+		  },
+		  {
+			"id": "53061b1c11d2abb305d7e9b9",
+			"created_at": "2014-02-20T15:11:24.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/6651252_GRh-YRQhHtx4u5X0DahNyJvSSHqUNiFKxZo5BrJdEpE.jpg",
+			"width": 640,
+			"height": 640
+		  },
+		  {
+			"id": "5270149811d28032873a7aca",
+			"created_at": "2013-10-29T20:03:36.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/57709928_TOS0jE3oN84W6Yc82Owv3Topm9Z2qXbAt6XTejC5tyE.jpg",
+			"width": 717,
+			"height": 959,
+			"classifications": [
+			  "indoor"
+			]
+		  },
+		  {
+			"id": "613b2f35a23cbd534cc9aab2",
+			"created_at": "2021-09-10T10:11:01.000Z",
+			"prefix": "https://fastly.4sqi.net/img/general/",
+			"suffix": "/8502632_J-p8IyFoDAwF6E5Vq5sw0Voinb8O5DisqH8d4sVdTxs.jpg",
+			"width": 1920,
+			"height": 1440
+		  }
+		]
+	  }
+	],
+	"context": {
+	  "geo_bounds": {
+		"circle": {
+		  "center": {
+			"latitude": 47.49801,
+			"longitude": 19.03991
+		  },
+		  "radius": 14748
+		}
+	  }
+	}
   }

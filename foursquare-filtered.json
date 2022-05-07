@@ -1,0 +1,969 @@
+[
+	{
+		"name": "Hungarian National Gallery (Magyar Nemzeti Galéria)",
+		"tags": [
+			{
+				"id": 10027,
+				"name": "Museum",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.496322,
+		"lon": 19.039728
+	},
+	{
+		"name": "Dísz Tér",
+		"tags": [
+			{
+				"id": 16041,
+				"name": "Plaza",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.499148,
+		"lon": 19.035686
+	},
+	{
+		"name": "Fisherman's Bastion (Halászbástya)",
+		"tags": [
+			{
+				"id": 16020,
+				"name": "Historic and Protected Site",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 16046,
+				"name": "Scenic Lookout",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.502064,
+		"lon": 19.034922
+	},
+	{
+		"name": "Mátra borozó",
+		"tags": [
+			{
+				"id": 13025,
+				"name": "Wine Bar",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.502381,
+		"lon": 19.039084
+	},
+	{
+		"name": "Ennmann Japán Étterem",
+		"tags": [
+			{
+				"id": 13276,
+				"name": "Sushi Restaurant",
+				"icon": { "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_", "suffix": ".png" }
+			}
+		],
+		"lat": 47.503196,
+		"lon": 19.039334
+	},
+	{
+		"name": "KOLLÁZS Brasserie & Bar",
+		"tags": [
+			{
+				"id": 13197,
+				"name": "Hungarian Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13310,
+				"name": "Modern European Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.499769,
+		"lon": 19.047874
+	},
+	{
+		"name": "Duna-part",
+		"tags": [
+			{
+				"id": 16053,
+				"name": "Waterfront",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.501582,
+		"lon": 19.045244
+	},
+	{
+		"name": "Várnegyed",
+		"tags": [
+			{
+				"id": 16046,
+				"name": "Scenic Lookout",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.501278,
+		"lon": 19.032373
+	},
+	{
+		"name": "Asztalka",
+		"tags": [
+			{
+				"id": 13027,
+				"name": "Bistro",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13040,
+				"name": "Dessert Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13197,
+				"name": "Hungarian Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.492255,
+		"lon": 19.044202
+	},
+	{
+		"name": "Halászbástya Étterem",
+		"tags": [
+			{
+				"id": 13197,
+				"name": "Hungarian Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.502442,
+		"lon": 19.034778
+	},
+	{
+		"name": "Hospital in the Rock (Sziklakórház és Atombunker)",
+		"tags": [
+			{
+				"id": 10030,
+				"name": "History Museum",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.500457,
+		"lon": 19.031633
+	},
+	{
+		"name": "Shoes on the Danube Bank (Cipők a Duna-parton)",
+		"tags": [
+			{
+				"id": 10047,
+				"name": "Public Art",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.503843,
+		"lon": 19.044917
+	},
+	{
+		"name": "Trattoria Pomo D'Oro",
+		"tags": [
+			{
+				"id": 13064,
+				"name": "Pizzeria",
+				"icon": { "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_", "suffix": ".png" }
+			},
+			{
+				"id": 13236,
+				"name": "Italian Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.501723,
+		"lon": 19.048279
+	},
+	{
+		"name": "DOC Vino Bar",
+		"tags": [
+			{
+				"id": 13025,
+				"name": "Wine Bar",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.502105,
+		"lon": 19.048526
+	},
+	{
+		"name": "Espresso Embassy",
+		"tags": [
+			{
+				"id": 13035,
+				"name": "Coffee Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13036,
+				"name": "Tea Room",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.501959,
+		"lon": 19.050042
+	},
+	{
+		"name": "Rojt és Bojt kávéskuckó",
+		"tags": [
+			{
+				"id": 13000,
+				"name": "Dining and Drinking",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.49615,
+		"lon": 19.029012
+	},
+	{
+		"name": "Chez Dodo macaron manufaktúra",
+		"tags": [
+			{
+				"id": 13002,
+				"name": "Bakery",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13042,
+				"name": "Cupcake Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/cupcakes_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.50009,
+		"lon": 19.052427
+	},
+	{
+		"name": "Comme Chez Soi",
+		"tags": [
+			{
+				"id": 13148,
+				"name": "French Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13236,
+				"name": "Italian Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.494391,
+		"lon": 19.05136
+	},
+	{
+		"name": "Bestsellers Kft",
+		"tags": [
+			{
+				"id": 17018,
+				"name": "Bookstore",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.500889,
+		"lon": 19.051209
+	},
+	{
+		"name": "Blue Fox The Bar",
+		"tags": [
+			{
+				"id": 10000,
+				"name": "Arts and Entertainment",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13009,
+				"name": "Cocktail Bar",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13013,
+				"name": "Hotel Bar",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.497328,
+		"lon": 19.052457
+	},
+	{
+		"name": "Borkonyha",
+		"tags": [
+			{
+				"id": 13139,
+				"name": "Eastern European Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13197,
+				"name": "Hungarian Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.499495,
+		"lon": 19.05257
+	},
+	{
+		"name": "Gelarto Rosa",
+		"tags": [
+			{
+				"id": 13002,
+				"name": "Bakery",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13046,
+				"name": "Ice Cream Parlor",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.500313,
+		"lon": 19.053016
+	},
+	{
+		"name": "Oriental Soup House - Szervita tér Budapest",
+		"tags": [
+			{
+				"id": 13379,
+				"name": "Vietnamese Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/vietnamese_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.495379,
+		"lon": 19.052541
+	},
+	{
+		"name": "Filozófusok kertje",
+		"tags": [
+			{
+				"id": 16047,
+				"name": "Sculpture Garden",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 16032,
+				"name": "Park",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.489492,
+		"lon": 19.039193
+	},
+	{
+		"name": "Szent Gellért Szobor",
+		"tags": [
+			{
+				"id": 16026,
+				"name": "Monument",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.489616,
+		"lon": 19.045603
+	},
+	{
+		"name": "Bortársaság",
+		"tags": [
+			{
+				"id": 17080,
+				"name": "Wine Store",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.505574,
+		"lon": 19.048843
+	},
+	{
+		"name": "Aldi",
+		"tags": [
+			{
+				"id": 17069,
+				"name": "Grocery Store / Supermarket",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.491379,
+		"lon": 19.031084
+	},
+	{
+		"name": "St. Stephen's Basilica Rooftop (Szent István Bazilika tetőtéri)",
+		"tags": [
+			{
+				"id": 16046,
+				"name": "Scenic Lookout",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sceniclookout_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.500786,
+		"lon": 19.054021
+	},
+	{
+		"name": "Lush",
+		"tags": [
+			{
+				"id": 17030,
+				"name": "Cosmetics Store",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.497337,
+		"lon": 19.053338
+	},
+	{
+		"name": "5 Elements Balinese Day Spa",
+		"tags": [
+			{
+				"id": 11073,
+				"name": "Spa",
+				"icon": { "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/spa_", "suffix": ".png" }
+			}
+		],
+		"lat": 47.507513,
+		"lon": 19.037992
+	},
+	{
+		"name": "Artizán Budapest",
+		"tags": [
+			{
+				"id": 13002,
+				"name": "Bakery",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13032,
+				"name": "Cafes, Coffee, and Tea Houses",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.503723,
+		"lon": 19.052892
+	},
+	{
+		"name": "Katona József Színház",
+		"tags": [
+			{
+				"id": 10043,
+				"name": "Theater",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.493669,
+		"lon": 19.054682
+	},
+	{
+		"name": "Meatology Budapest",
+		"tags": [
+			{
+				"id": 13026,
+				"name": "BBQ Joint",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13035,
+				"name": "Coffee Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.500879,
+		"lon": 19.05527
+	},
+	{
+		"name": "Pékműhely",
+		"tags": [
+			{
+				"id": 13002,
+				"name": "Bakery",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.507015,
+		"lon": 19.032117
+	},
+	{
+		"name": "Citadella Sétány",
+		"tags": [
+			{
+				"id": 16019,
+				"name": "Hiking Trail",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.487218,
+		"lon": 19.044217
+	},
+	{
+		"name": "Metropolitan Beauty",
+		"tags": [
+			{
+				"id": 11064,
+				"name": "Hair Salon",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/shops/salon_barber_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.505381,
+		"lon": 19.050995
+	},
+	{
+		"name": "MADHOUSE Craft Beer & Bistro",
+		"tags": [
+			{
+				"id": 13006,
+				"name": "Beer Bar",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.498122,
+		"lon": 19.055505
+	},
+	{
+		"name": "Boutiq'Bar",
+		"tags": [
+			{
+				"id": 13009,
+				"name": "Cocktail Bar",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.499368,
+		"lon": 19.055847
+	},
+	{
+		"name": "Citadella",
+		"tags": [
+			{
+				"id": 16020,
+				"name": "Historic and Protected Site",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.486998,
+		"lon": 19.046345
+	},
+	{
+		"name": "Madal Cafe - Espresso & Brew Bar - Alkotmány",
+		"tags": [
+			{
+				"id": 13035,
+				"name": "Coffee Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.507361,
+		"lon": 19.048806
+	},
+	{
+		"name": "9Bar Coffee",
+		"tags": [
+			{
+				"id": 13035,
+				"name": "Coffee Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.502019,
+		"lon": 19.055523
+	},
+	{
+		"name": "Vuk Játszótér",
+		"tags": [
+			{
+				"id": 16037,
+				"name": "Playground",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.487012,
+		"lon": 19.040253
+	},
+	{
+		"name": "Gellért Hill (Gellért-hegy)",
+		"tags": [
+			{
+				"id": 16027,
+				"name": "Mountain",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/mountain_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.486382,
+		"lon": 19.046946
+	},
+	{
+		"name": "Madal Cafe - Espresso & Brew Bar",
+		"tags": [
+			{
+				"id": 13035,
+				"name": "Coffee Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.492602,
+		"lon": 19.056143
+	},
+	{
+		"name": "My Little Melbourne Coffee",
+		"tags": [
+			{
+				"id": 13027,
+				"name": "Bistro",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13035,
+				"name": "Coffee Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.497655,
+		"lon": 19.057695
+	},
+	{
+		"name": "Caffe GianMario",
+		"tags": [
+			{
+				"id": 13035,
+				"name": "Coffee Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13064,
+				"name": "Pizzeria",
+				"icon": { "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_", "suffix": ".png" }
+			},
+			{
+				"id": 13236,
+				"name": "Italian Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.505157,
+		"lon": 19.055251
+	},
+	{
+		"name": "Katona József Színház - Kamra",
+		"tags": [
+			{
+				"id": 10043,
+				"name": "Theater",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.49228,
+		"lon": 19.056434
+	},
+	{
+		"name": "Kontakt",
+		"tags": [
+			{
+				"id": 13035,
+				"name": "Coffee Shop",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+					"suffix": ".png"
+				}
+			},
+			{
+				"id": 13065,
+				"name": "Restaurant",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.495653,
+		"lon": 19.057828
+	},
+	{
+		"name": "GoodSpirit Whiskey & Cocktail Bar",
+		"tags": [
+			{
+				"id": 13009,
+				"name": "Cocktail Bar",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.490707,
+		"lon": 19.056277
+	},
+	{
+		"name": "Jurányi Suterene",
+		"tags": [
+			{
+				"id": 13034,
+				"name": "Café",
+				"icon": { "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", "suffix": ".png" }
+			},
+			{
+				"id": 13003,
+				"name": "Bar",
+				"icon": {
+					"prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+					"suffix": ".png"
+				}
+			}
+		],
+		"lat": 47.508186,
+		"lon": 19.030265
+	}
+]
