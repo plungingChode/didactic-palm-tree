@@ -2,31 +2,43 @@
 	{
 		"name": "adventurer",
 		"picture_url": "adventurer_icon1.jpeg",
-		"preferred_tag_ids": [16020,16046,16047,16053,16019]
+		"preferred_tag_ids": [16020,16046,16047,16053,16019,10027,13197],
+		"short_description":"An adventurer is a curious person, who seeks action and challenges in his journey.",
+		"long_description":"An adventurer is a character who enjoys the physical challenge while hiking as much as the view. Likes active programs, but could enjoy a nice meal, or sometimes a chill museum visit. He/she will explore historic sites and scenic looks, among the challenging hikes and mounteen climbing while chasing thieves, and running from dragons. If you choose adventurer your good night's sleep is guaranteed."
 	},
 	{
 		"name": "bard",
 		"picture_url": "bard_icon0.jpg",
-		"preferred_tag_ids": []
+		"preferred_tag_ids": [],
+		"short_description":"",
+		"long_description":""
 	},
 	{
 		"name": "barbarian",
 		"picture_url": "barbarien_icon1.jpeg",
-		"preferred_tag_ids": []
+		"preferred_tag_ids": [],
+		"short_description":"",
+		"long_description":""
 	},
 	{
 		"name": "historian",
 		"picture_url": "historian_icon1.jpeg",
-		"preferred_tag_ids": []
+		"preferred_tag_ids": [],
+		"short_description":"",
+		"long_description":""
 	},
 	{
 		"name": "druid",
 		"picture_url": "druid_icon1.jpeg",
-		"preferred_tag_ids": []
+		"preferred_tag_ids": [],
+		"short_description":"",
+		"long_description":""
 	},
 	{
 		"name": "wizard",
 		"picture_url": "wizard_icon1.jpeg",
-		"preferred_tag_ids": []
+		"preferred_tag_ids": [],
+		"short_description":"",
+		"long_description":""
 	}
 ]

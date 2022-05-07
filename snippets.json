@@ -1,0 +1,65 @@
+[
+    {
+      "id": 16020,
+      "title": "Historic Site",
+      "lore": "I've seen many architectural masterpieces but there are only a few buildings in a city that lets you take a glimpse into the past. Take your time to think about the past and the future. Explore its surroundings and learn its lessons. It might help you in your journey."
+    },
+    {
+      "id": 16046,
+      "title": "Scout and explore!",
+      "lore": "An experienced traveler can also get lost in a new city. Finding a good spot to explore your surrounding can be crucial to your navigation."
+    },
+    {
+      "id": 16047,
+      "title": "The Garden of Sculptures ",
+      "lore": "Can anyone travel to the past? Not even a mage can do it, but a sculpture garden can give you quite a good impression. Walk among the great historical figures of the past. Unfortunately, they don't make sculptures of good storytellers, but you have better chances, brave adventurer."
+    },
+    {
+      "id": 16053,
+      "title": "Burgler by the river",
+      "lore": "A goblin has stolen your pocket. I think you should look for him by the local river. Maybe can find him there, maybe not, either way, the view will be astonishing."
+    },
+    {
+      "id": 16019,
+      "title": "Poisonous city",
+      "lore": "In the city poisonous air damaged your lung. You should go hiking on a magical path in the forest to regenerate, but be cheerful the wise magic trees only heal you if you enjoy your journey."
+    },
+    {
+      "id":16019,
+      "title":"The Dragon's attack",
+      "lore":"A dragon has appeared in the sky over the city. It's dangerous for anyone who stays. Escape from the town, and hide in the forests for a few hours."
+    },
+    {
+      "id": 16020,
+      "title": "Historic Site",
+      "lore": "I can recommend you a historic site in the city. It is even older, than me, hard to imagine, right? Maybe it can also tell you interesting stories. "
+    },
+    {
+      "id": 16046,
+      "title": "Counting clouds",
+      "lore": "If you can count the clouds in the sky, I'll pay for your next bier. Here is a little help if you want to get closer."
+    },
+    {
+      "id": 16046,
+      "title": "Look into the future, or just enjoy the view",
+      "lore": "I have heard tales of this place. They say you can look so far, that you can even see your future."
+    },
+    {
+      "id": 16053,
+      "title": "Orcs",
+      "lore": "They say there are orcs pillaging the city. Go to the river, maybe you can find some help there. "
+    },
+    {
+      "id": 16053fffff,
+      "title": "Local hospitality",
+      "lore": "The locals have noticed that a great adventurer is in town. They would like to invite you for a meal. It would be rude to refuse such a kind request. "
+    },
+    {
+      "id": 16053fffff,
+      "title": "The challange of the griff",
+      "lore": "The Great Griff has challenged your knowledge, you should prepare for his questions. Go to the museum and embrace the knowledge."
+    }
+
+
+
+  ]
