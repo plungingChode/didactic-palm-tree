@@ -2,31 +2,71 @@
     {
       "id": 16020,
       "title": "Historic Site",
-      "lore": "I've seen many architectural masterpieces but there are only a few buildings in a city that lets you take a glimpse into the past. Take your time to think about the past and the future. Explore its surroundings and learn its lessons. It might help you in your journey.",
-      "pictureURL":"https://www.planetware.com/photos-large/PER/italy-roman-colosseum-world-heritage.jpg"
+      "lore": "You've seen many architectural masterpieces but there are only a few buildings in a city that lets you take a glimpse into the past. Take your time to think about the past and the future. Explore its surroundings and learn its lessons. You think this will help you on your journey.",
+      "pictureURL":"https://www.planetware.com/photos-large/PER/italy-roman-colosseum-world-heritage.jpg",
+      "action":"you get curious about the misteries of the past"
+    },
+    {
+      "id": 16020,
+      "title": "Memories of the old",
+      "lore": "Only few people know why this place is so important for the culture of this country. You might become one of these people if you look close enough... or from far enough. It's your call.",
+      "pictureURL":"https://www.planetware.com/photos-large/PER/italy-roman-colosseum-world-heritage.jpg",
+      "action":"you feel that an important place needs to be discovered somewhere around here"
     },
     {
       "id": 16046,
       "title": "Scout and explore!",
       "lore": "An experienced traveler can also get lost in a new city. Finding a good spot to explore your surrounding can be crucial to your navigation.",
-      "pictureURL":"https://st.depositphotos.com/1011382/2840/i/600/depositphotos_28405467-stock-photo-safari-boy.jpg"
+      "pictureURL":"https://st.depositphotos.com/1011382/2840/i/600/depositphotos_28405467-stock-photo-safari-boy.jpg",
+      "action":"you take the opportunity to get to a vantage point"
+    },
+    {
+      "id": 16046,
+      "title": "Don't look down!",
+      "lore": "Wandering aimlessly won't take you closer to your goal. Provided your goal is not that exact thing: to wander around aimlessly.",
+      "pictureURL":"https://st.depositphotos.com/1011382/2840/i/600/depositphotos_28405467-stock-photo-safari-boy.jpg",
+      "action":"an excellent lookout spot gives you the opportunity to take in the scenery"
+    },
+    {
+      "id": 16047,
+      "title": "Frozen in time",
+      "lore": "Can anyone travel to the past? Not even a mage can do it, but a sculpture garden can give you quite a good impression. As you are walking among the great historical figures it seems like these people were frozen in time.",
+      "pictureURL":"https://media.newyorker.com/photos/5bc7ac933e37522d585a9fc1/master/pass/181029_r33088.jpg",
+      "action":"a nearby place gives off a misterious and chilly vibe"
     },
     {
       "id": 16047,
       "title": "The Garden of Sculptures",
-      "lore": "Can anyone travel to the past? Not even a mage can do it, but a sculpture garden can give you quite a good impression. Walk among the great historical figures of the past. Unfortunately, they don't make sculptures of good storytellers, but you have better chances, brave adventurer.",
-      "pictureURL":"https://media.newyorker.com/photos/5bc7ac933e37522d585a9fc1/master/pass/181029_r33088.jpg"
+      "lore": "- Why did the famous people got famous in the first place anyway? What did they do to deserve such recognition? - you think to yourself while taking the route to The Garden of Sculptures to meet the famous people ... of the past times.",
+      "pictureURL":"https://media.newyorker.com/photos/5bc7ac933e37522d585a9fc1/master/pass/181029_r33088.jpg",
+      "action":"you wonder how famous people looked"
     },
     {
       "id": 16053,
-      "title": "Burgler by the river",
-      "lore": "A goblin has stolen your pocket. I think you should look for him by the riverside. Maybe can find him there, maybe not, either way, the view will be astonishing.",
-      "pictureURL":"https://www.britain-magazine.com/wp-content/uploads/PH713H-1.jpg"
+      "title": "Burglar by the river",
+      "lore": "A goblin has picked your pocket. I think you should look for him by the riverside. Maybe can find him there, maybe not, either way, the view will be astonishing.",
+      "pictureURL":"https://www.britain-magazine.com/wp-content/uploads/PH713H-1.jpg",
+      "action":"you feel that something is missing from your trip"
+    },
+    {
+      "id": 16053,
+      "title": "Fairies on the water",
+      "lore": "- Are..?  Are those really aqua fairies..?! - you mumble. In fact they are. Those who have never seen them them only come here to spend some time near the waterfront.",
+      "pictureURL":"https://www.britain-magazine.com/wp-content/uploads/PH713H-1.jpg",
+      "action":"a strangely familiar feeling comes from the direction of a nearby body of water"
     },
     {
       "id": 16019,
       "title": "Trees of hope",
-      "lore": "They say that you can find Oogle the wise in the nearby forest. You should go hiking on the magical path where the magic trees will heal you while you enjoy your journey.",
-      "pictureURL":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/3-forest-path-nikada.jpg"
+      "lore": "They say that you can find Oogle the wise in the nearby forest. You have to find him... or her. Although you are not quite sure who you are going to find there, one thing is for certain: a relaxing journey is ahead of you.",
+      "pictureURL":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/3-forest-path-nikada.jpg",
+      "action":"you receive questionable information about a wise person in the woods"
+    },
+    {
+      "id": 16019,
+      "title": "Magical forest",
+      "lore": " You should go hiking on the magical path where the trees will heal you while you enjoy your journey. This sounds like a really great idea.",
+      "pictureURL":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/3-forest-path-nikada.jpg",
+      "action":"you hear the calling of the wild"
     }
   ]
