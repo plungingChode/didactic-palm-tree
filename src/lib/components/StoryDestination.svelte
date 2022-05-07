@@ -5,6 +5,7 @@
 
 	import type { FSQPointOfInterest } from '$lib/types';
 	import { state } from '$lib/state';
+	import { goto } from '$app/navigation';
 	export let destination: FSQPointOfInterest;
 
 	export let id: string;
@@ -45,7 +46,8 @@
 				class="action-btn confirm"
 				on:click={() => {
 					$state.currentLocation = destination.fsq_id;
-					$state.visitedPlaces.push(destination.fsq_id);
+					$state.visitedPlaces.push([destination.fsq_id, destination.snippet.id || 0]);
+					goto('navigate');
 				}}>Onward!</button
 			>
 		</section>
