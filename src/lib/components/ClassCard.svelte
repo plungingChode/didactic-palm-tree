@@ -1,31 +1,33 @@
 <script lang="ts">
 	import { slide } from 'svelte/transition';
 	import { createEventDispatcher } from 'svelte';
+	import type { Character } from '$lib/types';
+	import { state } from '$lib/state';
 
 	const dispatch = createEventDispatcher();
 
-	export let id: number;
-	export let title: string;
-	export let relevantTags: string[] = ['kaja', 'pia', 'nők'];
-	export let bodyText: string;
-	export let picPath: string;
-
+	export let character: Character;
 	export let isOpen = false;
 
 	function handleContainerClick() {
 		if (!isOpen) {
-			dispatch('expand', { id });
+			dispatch('expand', { id: character.id });
 			isOpen = true;
 		}
+	}
+
+	function getRelevantTag(tagID: number | string) {
+		const labels = $state.tags[tagID].full_label;
+		return labels[labels.length - 1];
 	}
 </script>
 
 <div class="container" on:click={handleContainerClick}>
 	<div class="img-crop">
-		<img src={picPath} alt="" />
+		<img src={character.pictureURL} alt="" />
 	</div>
 	<section>
-		<h3>{title}</h3>
+		<h3>a(n) {character.name}</h3>
 		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 	</section>
 
@@ -42,11 +44,11 @@
 			<p>
 				Relevant points of interest:
 				<br />
-				{#each relevantTags as tag}
-					<span class="tag">{tag}</span>
+				{#each character.preferences as tagID}
+					<span class="tag">{getRelevantTag(tagID)}s</span>
 				{/each}
 			</p>
-			<button class="action-btn confirm" on:click={() => dispatch('choose', { id })}
+			<button class="action-btn confirm" on:click={() => dispatch('choose', { id: character.id })}
 				>Choose this</button
 			>
 			<button class="action-btn collapse-btn" on:click|stopPropagation={() => (isOpen = false)}
@@ -101,6 +103,7 @@
 	.tag {
 		display: inline-block;
 		min-width: 4rem;
+		margin-top: 0.25rem;
 		margin-right: 0.25rem;
 		padding: 0.15rem 0.5rem;
 		vertical-align: middle;

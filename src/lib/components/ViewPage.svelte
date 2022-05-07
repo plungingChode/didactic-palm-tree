@@ -3,7 +3,7 @@
 	import StoryPage from '$lib/components/StoryPage.svelte';
 	import EndPage from '$lib/components/EndPage.svelte';
 	import DonePage from './DonePage.svelte';
-	import PathSelect from '$lib/components/PathSelect.svelte';
+	import PathSelect from 'src/routes/class-confirm.svelte';
 </script>
 
 <div class="container">
