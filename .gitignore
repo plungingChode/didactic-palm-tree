@@ -8,3 +8,5 @@ node_modules
 !.env.example
 .eslintcache
 api-key.txt
+*.db-journal
+*.db
