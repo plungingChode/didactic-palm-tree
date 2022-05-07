@@ -7,7 +7,7 @@
 </script>
 
 <div class="container">
-	<PathSelect />
+	<StoryPage />
 </div>
 
 <style>

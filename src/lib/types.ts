@@ -51,7 +51,7 @@ export type Story = {
 export type FSQPlace = {
 	fsq_id: string;
 	name: string;
-	description: string;
+	description?: string;
 	categories: {
 		id: number;
 		name: string;
@@ -66,11 +66,15 @@ export type FSQPlace = {
 			longitude: number;
 		};
 	};
-	photos: {
+	photos: Partial<{
 		id: string;
 		prefix: string;
 		suffix: string;
-	};
+		width: number;
+		height: number;
+		created_at: string;
+		classifications: string[];
+	}>[];
 };
 
 export type FSQPointOfInterest = FSQPlace & {

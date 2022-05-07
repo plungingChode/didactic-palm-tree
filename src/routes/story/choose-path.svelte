@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { FSQPointOfInterest } from '$lib/types';
-	import StoryDestination from './StoryDestination.svelte';
+	import StoryDestination from '$lib/components/StoryDestination.svelte';
 
 	export let destinations: FSQPointOfInterest[] = [
 		{
