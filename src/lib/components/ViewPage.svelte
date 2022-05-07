@@ -2,27 +2,12 @@
 	import ClassPage from '$lib/components/ClassPage.svelte';
 	import StoryPage from '$lib/components/StoryPage.svelte';
 	import EndPage from '$lib/components/EndPage.svelte';
-
-	let viewport: any;
-	let pageNumber = 1;
-
-	function nextPage() {
-		pageNumber += 1;
-	}
+	import DonePage from './DonePage.svelte';
+	import PathSelect from '$lib/components/PathSelect.svelte';
 </script>
 
 <div class="container">
-	{#if pageNumber == 0}
-		<ClassPage />
-	{:else if pageNumber == 1}
-		<StoryPage
-			title={'Your journey begins... '}
-			bodyText={'Lorem ipsuuuuuuuuuuuuuuuuuuuuuuuum'}
-			picPath={'https://www.gnm.de/fileadmin/redakteure/Forschung/bilder/t_forschung_Maria_Kind_zwischen_Heiligen.jpg'}
-		/>
-	{:else if pageNumber == 2}
-		<EndPage />
-	{/if}
+	<PathSelect />
 </div>
 
 <style>

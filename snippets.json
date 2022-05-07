@@ -2,26 +2,31 @@
     {
       "id": 16020,
       "title": "Historic Site",
-      "lore": "I've seen many architectural masterpieces but there are only a few buildings in a city that lets you take a glimpse into the past. Take your time to think about the past and the future. Explore its surroundings and learn its lessons. It might help you in your journey."
+      "lore": "I've seen many architectural masterpieces but there are only a few buildings in a city that lets you take a glimpse into the past. Take your time to think about the past and the future. Explore its surroundings and learn its lessons. It might help you in your journey.",
+      "pictureURL":"https://www.planetware.com/photos-large/PER/italy-roman-colosseum-world-heritage.jpg"
     },
     {
       "id": 16046,
       "title": "Scout and explore!",
-      "lore": "An experienced traveler can also get lost in a new city. Finding a good spot to explore your surrounding can be crucial to your navigation."
+      "lore": "An experienced traveler can also get lost in a new city. Finding a good spot to explore your surrounding can be crucial to your navigation.",
+      "pictureURL":"https://st.depositphotos.com/1011382/2840/i/600/depositphotos_28405467-stock-photo-safari-boy.jpg"
     },
     {
       "id": 16047,
-      "title": "The Garden of Sculptures ",
-      "lore": "Can anyone travel to the past? Not even a mage can do it, but a sculpture garden can give you quite a good impression. Walk among the great historical figures of the past. Unfortunately, they don't make sculptures of good storytellers, but you have better chances, brave adventurer."
+      "title": "The Garden of Sculptures",
+      "lore": "Can anyone travel to the past? Not even a mage can do it, but a sculpture garden can give you quite a good impression. Walk among the great historical figures of the past. Unfortunately, they don't make sculptures of good storytellers, but you have better chances, brave adventurer.",
+      "pictureURL":"https://media.newyorker.com/photos/5bc7ac933e37522d585a9fc1/master/pass/181029_r33088.jpg"
     },
     {
       "id": 16053,
       "title": "Burgler by the river",
-      "lore": "A goblin has stolen your pocket. I think you should look for him by the local river. Maybe can find him there, maybe not, either way, the view will be astonishing."
+      "lore": "A goblin has stolen your pocket. I think you should look for him by the riverside. Maybe can find him there, maybe not, either way, the view will be astonishing.",
+      "pictureURL":"https://www.britain-magazine.com/wp-content/uploads/PH713H-1.jpg"
     },
     {
       "id": 16019,
-      "title": "Poisonous city",
-      "lore": "In the city poisonous air damaged your lung. You should go hiking on a magical path in the forest to regenerate, but be cheerful the wise magic trees only heal you if you enjoy your journey."
+      "title": "Trees of hope",
+      "lore": "They say that you can find Oogle the wise in the nearby forest. You should go hiking on the magical path where the magic trees will heal you while you enjoy your journey.",
+      "pictureURL":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/3-forest-path-nikada.jpg"
     }
   ]
