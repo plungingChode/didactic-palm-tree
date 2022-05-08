@@ -5,8 +5,10 @@
 ## Running the project
 
 ```shell
-$ git clone <urlt ide>
+$ git clone https://github.com/plungingChode/hackathon-2022
 $ yarn install
+$ yarn init:db
+$ yarn init:mockdata
 $ yarn dev
 ```
 
