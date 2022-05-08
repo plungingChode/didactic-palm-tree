@@ -28,6 +28,9 @@
 		border: 0;
 		font-size: 1.25rem;
 		border-radius: 0.5rem;
+		text-decoration: none;
+		text-align: center;
+		font-weight: 600;
 	}
 	:global(.action-btn.confirm) {
 		margin-top: 1.5rem;

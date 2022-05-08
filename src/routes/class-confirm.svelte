@@ -15,7 +15,9 @@
 			})
 		});
 
-		$state.destinationChoices = await res.json();
+		const { excludeSuccessful, destinations } = await res.json();
+		$state.destinationChoices = destinations;
+
 		goto('/story/choose-path');
 	}
 </script>

@@ -3,6 +3,7 @@
 	import { createEventDispatcher } from 'svelte';
 	import type { Character } from '$lib/types';
 	import { state } from '$lib/state';
+	import { longLipsum, prefixWithIndefiniteArticle, shortLipsum } from '$lib/util';
 
 	const dispatch = createEventDispatcher();
 
@@ -27,19 +28,14 @@
 		<img src={character.pictureURL} alt="" />
 	</div>
 	<section>
-		<h3>a(n) {character.name}</h3>
-		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+		<h3>{prefixWithIndefiniteArticle(character.name)}</h3>
+		<p>{character.shortDescription || shortLipsum}</p>
 	</section>
 
 	{#if isOpen}
 		<section transition:slide>
 			<p>
-				Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium, mollitia dolore!
-				Officia neque vero dolore, magni ipsum ratione reprehenderit, eius deleniti porro facere
-				consequuntur debitis nobis voluptate mollitia. Laudantium, aliquam! Veritatis neque
-				voluptatum alias illo eligendi qui excepturi quibusdam nemo molestiae earum? Totam ipsa esse
-				dolor aliquid suscipit nesciunt natus quidem similique voluptatem dolores? Libero amet
-				officiis impedit explicabo dignissimos?
+				{character.longDescription || longLipsum}
 			</p>
 			<p>
 				Relevant points of interest:
@@ -48,12 +44,12 @@
 					<span class="tag">{getRelevantTag(tagID)}s</span>
 				{/each}
 			</p>
-			<button class="action-btn confirm" on:click={() => dispatch('choose', { id: character.id })}
-				>Choose this</button
-			>
-			<button class="action-btn collapse-btn" on:click|stopPropagation={() => (isOpen = false)}
-				>^</button
-			>
+			<button class="action-btn confirm" on:click={() => dispatch('choose', { id: character.id })}>
+				Choose this
+			</button>
+			<button class="action-btn collapse-btn" on:click|stopPropagation={() => (isOpen = false)}>
+				^
+			</button>
 		</section>
 	{/if}
 </div>

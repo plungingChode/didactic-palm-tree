@@ -30,6 +30,8 @@ export type Character = {
 	preferences: number[];
 	isUserCreated: boolean;
 	pictureURL: string;
+	shortDescription: string;
+	longDescription: string;
 };
 
 export type Snippet = {

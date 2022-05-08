@@ -10,6 +10,8 @@ type RawCharacter = {
 	preferred_tag_ids: string;
 	created_by: boolean;
 	picture_url: string;
+	short_description: string;
+	long_description: string;
 };
 
 export const get: RequestHandler = async ({ params, url }) => {
@@ -21,7 +23,9 @@ export const get: RequestHandler = async ({ params, url }) => {
 		isUserCreated: raw.created_by !== null,
 		name: raw.name,
 		pictureURL: '/class_icons/' + raw.picture_url,
-		preferences: JSON.parse(raw.preferred_tag_ids)
+		preferences: JSON.parse(raw.preferred_tag_ids),
+		shortDescription: raw.short_description,
+		longDescription: raw.long_description
 	}));
 
 	return {

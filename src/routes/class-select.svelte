@@ -28,7 +28,7 @@
 		$state.tags = tags;
 	}
 
-	let openCard = 0;
+	let expanded = 0;
 
 	function selectClass(e: CustomEvent) {
 		const char = characters.find((c) => c.id === e.detail.id)!;
@@ -40,7 +40,7 @@
 <main class="container">
 	<h1>You begin your journey as...</h1>
 	{#each characters as c}
-		<ClassCard on:expand={(e) => (openCard = e.detail.id)} on:choose={selectClass} character={c} />
+		<ClassCard on:expand={(e) => (expanded = e.detail.id)} on:choose={selectClass} character={c} />
 	{/each}
 </main>
 

@@ -18,6 +18,8 @@ CREATE TABLE characters (
     created_by          TEXT,
     picture_url         TEXT,
     preferred_tag_ids   TEXT,
+    short_description   TEXT,
+    long_description    TEXT,
     PRIMARY KEY(id),
     FOREIGN KEY(created_by) REFERENCES users(id)
 );

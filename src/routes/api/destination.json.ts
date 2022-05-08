@@ -60,6 +60,7 @@ export const post: RequestHandler<never, DestinationResponse> = async ({ request
 	const nearest = currentLocation
 		? pickNearest(currentLocation, choices, n)
 		: sampleSize(choices, n).map((place) => [place, 0] as const);
+
 	const incompleteDestinations: Partial<FSQPointOfInterest>[] = nearest.map(([poi, distance]) => ({
 		...poi,
 		distance
@@ -79,7 +80,12 @@ export const post: RequestHandler<never, DestinationResponse> = async ({ request
       `
 		);
 
-		d.snippet = sample(snippets);
+		d.snippet = sample(snippets) || {
+			id: -1,
+			action: '#SNIPPET_ACTION',
+			lore: '#SNIPPET_LORE',
+			title: '#SNIPPET_TITLE'
+		};
 	}
 	const destinations = incompleteDestinations as FSQPointOfInterest[];
 

@@ -6,15 +6,13 @@
 	import type { FSQPointOfInterest } from '$lib/types';
 	import { state } from '$lib/state';
 	import { goto } from '$app/navigation';
+
 	export let destination: FSQPointOfInterest;
-
-	export let id: string;
-
 	export let isOpen = false;
 
 	function handleContainerClick() {
 		if (!isOpen) {
-			dispatch('expand', { id });
+			dispatch('expand', { destination });
 			isOpen = true;
 		}
 	}
@@ -26,22 +24,24 @@
 		handleContainerClick();
 	}}
 >
-	<h3>...{destination.snippet.action}</h3>
+	<h3 class="story-part">...{destination.snippet.action}</h3>
 	{#if isOpen}
 		<section transition:slide>
 			<h4>{destination.name}</h4>
-			<span>{destination.categories[0].name}</span>
+			{#each destination.categories.slice(0, 3) as ctg}
+				<span class="tag">{ctg.name}</span>
+			{/each}
+			<br />
+			<span>&#128340; about {Math.round((destination.distance / 4000) * 60)} min away</span>
 			<img src={destination.photos[0].prefix + '350x200' + destination.photos[0].suffix} alt="" />
-
-			<p>
-				{destination.snippet.lore}
-			</p>
 			{#if destination.description}
 				<p>
 					{destination.description}
 				</p>
 			{/if}
-
+			<p class="story-part">
+				{destination.snippet.lore}
+			</p>
 			<button
 				class="action-btn confirm"
 				on:click={() => {
@@ -57,21 +57,24 @@
 <style>
 	h4 {
 		margin: 0;
+		margin-top: 1.5rem;
 	}
 	h3 {
+		margin: 0;
 		font-size: 1rem;
-		font-style: italic;
 		font-weight: 400;
 	}
 	p {
 		margin-bottom: 0;
+	}
+	.story-part {
 		font-style: italic;
 	}
 	.container {
 		display: flex;
 		flex-direction: column;
-		margin-top: 1.5rem;
-		padding: 1.5rem;
+		margin-top: 1rem;
+		padding: 1rem;
 
 		border-radius: 0.5rem;
 
@@ -79,15 +82,11 @@
 		text-align: left;
 	}
 
-	.collapse-btn {
-		width: calc(100% + 3rem);
-		margin-left: -1.5rem;
-		margin-bottom: -1.5rem;
-	}
-
 	.tag {
 		display: inline-block;
 		min-width: 4rem;
+		margin-top: 0.25rem;
+		margin-bottom: 0.25rem;
 		margin-right: 0.25rem;
 		padding: 0.15rem 0.5rem;
 		vertical-align: middle;
@@ -96,6 +95,7 @@
 		background-color: var(--gray-400);
 		text-align: center;
 	}
+
 	img {
 		width: 100%;
 		border-radius: 10px;

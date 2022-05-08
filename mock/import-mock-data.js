@@ -28,8 +28,20 @@ const characters = readJSON('mock/characters.json');
 for (const c of characters) {
 	db.exec(
 		`
-    INSERT INTO characters (name, picture_url, preferred_tag_ids)
-    VALUES ('${c.name}', '${c.picture_url}', '${JSON.stringify(c.preferred_tag_ids)}');
+    INSERT INTO characters (
+      name, 
+      picture_url, 
+      preferred_tag_ids,
+      short_description,
+      long_description
+    )
+    VALUES (
+      '${c.name}', 
+      '${c.picture_url}', 
+      '${JSON.stringify(c.preferred_tag_ids)}',
+      "${c.short_description}",
+      "${c.long_description}"
+    );
     `
 	);
 }
